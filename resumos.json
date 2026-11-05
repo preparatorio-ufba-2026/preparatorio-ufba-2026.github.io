@@ -1,0 +1,212 @@
+[
+  {
+    "disciplina": "Língua Portuguesa",
+    "titulo": "Interpretação e gêneros textuais",
+    "resumo": "Identifique tema, tese, ideias centrais, informações explícitas e inferências sustentadas pelo texto. Diferencie fato de opinião e observe a finalidade comunicativa. Narração relata acontecimentos; descrição caracteriza; exposição explica; argumentação defende uma tese; injunção orienta ações.",
+    "dica": "Em questões de interpretação, volte ao trecho: uma alternativa plausível não é necessariamente a que o texto afirma."
+  },
+  {
+    "disciplina": "Língua Portuguesa",
+    "titulo": "Ortografia, acentuação e formação de palavras",
+    "resumo": "Revise as regras de oxítonas, paroxítonas e proparoxítonas; hiatos e uso do hífen conforme o Acordo Ortográfico. Reconheça radical, prefixo, sufixo, derivação e composição.",
+    "dica": "Atenção a por que, porque, por quê e porquê, e a pares como sessão/seção/cessão."
+  },
+  {
+    "disciplina": "Língua Portuguesa",
+    "titulo": "Coesão, coerência e conectivos",
+    "resumo": "Coesão é a ligação linguística entre partes do texto; coerência é a articulação lógica das ideias. Pronomes, elipses, repetições e substituições retomam referentes. Conectivos expressam causa, oposição, condição, conclusão e finalidade.",
+    "dica": "Trocar “porém” por “portanto” altera a relação lógica e pode mudar o sentido."
+  },
+  {
+    "disciplina": "Língua Portuguesa",
+    "titulo": "Morfossintaxe e análise de períodos",
+    "resumo": "Identifique classes gramaticais e funções sintáticas: sujeito, predicado, complementos, adjuntos e aposto. Diferencie coordenação e subordinação; reconheça orações adjetivas, substantivas e adverbiais, pronomes relativos e vozes verbais.",
+    "dica": "Em voz passiva analítica, “O setor arquivou os documentos” vira “Os documentos foram arquivados pelo setor”."
+  },
+  {
+    "disciplina": "Língua Portuguesa",
+    "titulo": "Pontuação, concordância, regência e crase",
+    "resumo": "A vírgula separa elementos e orações, mas em regra não separa sujeito e verbo. Concordância relaciona verbos e nomes aos seus termos. Regência define preposições exigidas. Crase é a fusão da preposição “a” com artigo/pronome compatível. Revise também colocação pronominal.",
+    "dica": "Teste a crase trocando a palavra feminina por masculina: “à universidade” → “ao instituto”."
+  },
+  {
+    "disciplina": "Língua Portuguesa",
+    "titulo": "Semântica, reescrita e variação linguística",
+    "resumo": "Distinga denotação e conotação, sinônimos, antônimos, homônimos, parônimos e ambiguidades. Identifique metáfora, ironia, hipérbole, antítese e metonímia. Reescreva frases preservando sentido, correção e registro adequado.",
+    "dica": "A banca pode pedir equivalência de sentido, não apenas correção gramatical."
+  },
+  {
+    "disciplina": "Língua Portuguesa",
+    "titulo": "Redação oficial",
+    "resumo": "O Manual de Redação da Presidência da República (3ª edição) orienta comunicações com clareza, concisão, impessoalidade, formalidade e padronização. Revise pronomes de tratamento, identificação do destinatário, assunto, corpo e fecho dos expedientes.",
+    "dica": "Em documento oficial, prefira linguagem objetiva e evite opiniões pessoais e informalidades."
+  },
+  {
+    "disciplina": "Noções de Informática",
+    "titulo": "Conceitos básicos, Windows e arquivos",
+    "resumo": "Diferencie hardware, software, sistema operacional e aplicativos. No Windows 10 ou posterior, revise Explorador de Arquivos, caminhos, extensões, pastas, atalhos, lixeira, permissões e operações de copiar, mover e renomear.",
+    "dica": "Copiar preserva o original; mover transfere a localização do arquivo."
+  },
+  {
+    "disciplina": "Noções de Informática",
+    "titulo": "Word, Excel e PowerPoint / Microsoft 365",
+    "resumo": "No editor de texto: formatação, estilos, margens, revisão e tabelas. Na planilha: células, referências relativas e absolutas, filtros, gráficos e funções como SOMA, MÉDIA e SE. Em apresentações: slides, layouts, temas e transições.",
+    "dica": "Em Excel, $A$1 é referência absoluta; A1 é relativa."
+  },
+  {
+    "disciplina": "Noções de Informática",
+    "titulo": "E-mail, Outlook e colaboração",
+    "resumo": "Conheça destinatário, CC, CCO, anexos, resposta, encaminhamento, spam e etiqueta digital. Diferencie edição simultânea, permissões de visualização/edição e compartilhamento de arquivos.",
+    "dica": "CCO oculta os destinatários entre si; verifique destinatários e anexos antes de enviar."
+  },
+  {
+    "disciplina": "Noções de Informática",
+    "titulo": "Internet, intranet, navegadores e nuvem",
+    "resumo": "Internet é a rede pública global; intranet é rede privada institucional. Revise URLs, HTTPS, abas, favoritos, histórico, downloads, mecanismos de busca e armazenamento em nuvem com sincronização e controle de acesso.",
+    "dica": "HTTPS protege a comunicação em trânsito, mas não garante que um site seja legítimo."
+  },
+  {
+    "disciplina": "Noções de Informática",
+    "titulo": "Redes e conectividade",
+    "resumo": "Conheça conceitos de LAN, Wi-Fi, roteador, endereço IP, DNS, modem, compartilhamento de recursos e conexão cliente-servidor.",
+    "dica": "DNS traduz nomes de domínio em endereços usados para localizar serviços na rede."
+  },
+  {
+    "disciplina": "Noções de Informática",
+    "titulo": "Segurança digital, ameaças e backup",
+    "resumo": "Princípios de confidencialidade, integridade e disponibilidade. Phishing tenta obter dados por fraude; malware é software malicioso; ransomware pode bloquear ou criptografar dados. Use MFA, senhas fortes, atualizações, antivírus, firewall e cópias de segurança.",
+    "dica": "Backup deve ser testado e mantido separado dos dados originais quando possível."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "Constituição e princípios administrativos",
+    "resumo": "O art. 37 da Constituição estabelece legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE). Revise administração direta e indireta, ingresso no serviço público, cargos e regras gerais aplicáveis aos agentes públicos.",
+    "dica": "Legalidade administrativa: o agente atua dentro das competências e permissões previstas no ordenamento."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "Organização administrativa e agentes públicos",
+    "resumo": "Administração direta integra entes federativos; indireta inclui autarquias, fundações públicas, empresas públicas e sociedades de economia mista. Descentralização distribui atividades entre pessoas; desconcentração reparte competências dentro da mesma pessoa jurídica.",
+    "dica": "Órgão não se confunde com entidade dotada de personalidade jurídica."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "Lei 8.112/1990 — regime dos servidores federais",
+    "resumo": "Revise provimento e vacância, posse e exercício, remoção e redistribuição, direitos, vantagens, licenças, afastamentos, deveres, proibições, responsabilidades e processo administrativo disciplinar.",
+    "dica": "Remoção desloca o servidor no mesmo quadro; redistribuição desloca o cargo efetivo entre órgãos ou entidades, conforme requisitos legais."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "Ética, improbidade e responsabilidade",
+    "resumo": "Estude o Código de Ética (Decreto 1.171/1994), o Sistema de Gestão da Ética (Decreto 6.029/2007) e a Lei 8.429/1992 atualizada. Diferencie conduta antiética, infração disciplinar e ato de improbidade; não são conceitos equivalentes.",
+    "dica": "A caracterização da improbidade exige atenção ao texto legal vigente e ao elemento subjetivo exigido para cada hipótese."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "Processo administrativo — Lei 9.784/1999",
+    "resumo": "Estude princípios, competência, impedimento, suspeição, motivação, instrução, participação do interessado, decisões, prazos e recursos. Diferencie anulação de ato ilegal e revogação por conveniência e oportunidade, quando cabível.",
+    "dica": "Anulação se liga à ilegalidade; revogação à avaliação de mérito administrativo."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "LAI e transparência",
+    "resumo": "A Lei 12.527/2011 disciplina o acesso a informações públicas. Transparência ativa é divulgação espontânea; passiva é resposta a pedido. Estude prazos, exceções, informações pessoais e hipóteses de sigilo.",
+    "dica": "Publicidade é regra, mas não elimina a proteção legal de informações pessoais e sigilosas."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "LGPD no setor público",
+    "resumo": "A Lei 13.709/2018 trata de dados pessoais, dados sensíveis, titulares, agentes de tratamento, finalidades e bases legais. No poder público, o tratamento deve respeitar finalidade pública, necessidade, transparência e segurança.",
+    "dica": "Não presuma que toda utilização de dados pelo órgão depende de consentimento: há outras bases legais."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "Licitações e contratos — Lei 14.133/2021",
+    "resumo": "Revise princípios, fases da licitação, modalidades (pregão, concorrência, concurso, leilão e diálogo competitivo), critérios de julgamento, contratação direta, dispensa e inexigibilidade, fiscalização, alterações, sanções e controle.",
+    "dica": "Dispensa: competição pode ser viável, mas a lei autoriza contratar diretamente; inexigibilidade: competição é inviável."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "Governança, integridade e controles",
+    "resumo": "Governança direciona, monitora e avalia a atuação institucional; gestão executa. Estude riscos, controles internos, integridade, accountability e responsabilização. O edital também cita o Decreto 9.830/2019.",
+    "dica": "Controle interno não se confunde com controle externo exercido pelos órgãos competentes."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "Governo digital, sustentabilidade e atendimento",
+    "resumo": "Lei 14.129/2021: simplificação e digitalização de serviços. A3P: uso racional de recursos e práticas socioambientais. Atendimento ao usuário exige acessibilidade, comunicação clara, respeito e canais adequados.",
+    "dica": "Serviço digital deve buscar acessibilidade, não excluir quem necessita de atendimento assistido."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "Gestão documental, patrimônio e segurança",
+    "resumo": "Lei 8.159/1991: produção, tramitação, classificação, guarda, destinação e acesso a documentos. Revise almoxarifado, inventário, controle patrimonial, conservação e segurança de dados e documentos institucionais.",
+    "dica": "Documento permanente tem valor de guarda duradoura; eliminação depende de avaliação e procedimento adequado."
+  },
+  {
+    "disciplina": "Administração Pública",
+    "titulo": "IFES e Estatuto/Regimento da UFBA",
+    "resumo": "Revise autonomia universitária, estrutura acadêmica e administrativa, órgãos colegiados, competências e direitos/deveres da comunidade universitária. O edital exige expressamente o Estatuto e o Regimento Geral da UFBA.",
+    "dica": "Para competências e composição de órgãos, estude os dispositivos do texto oficial da UFBA; este resumo é introdutório."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Estado, governo, administração e organização",
+    "resumo": "Estado é a organização político-jurídica; governo conduz diretrizes políticas; Administração Pública executa atividades administrativas. Diferencie administração direta/indireta, órgãos, entidades, cargos, empregos e funções públicas.",
+    "dica": "Uma autarquia tem personalidade jurídica própria e integra a administração indireta."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Poderes administrativos e abuso",
+    "resumo": "Poder hierárquico organiza e distribui competências; disciplinar apura e sanciona infrações funcionais; regulamentar edita atos normativos nos limites legais; polícia administrativa condiciona atividades em benefício coletivo. Excesso e desvio de poder são formas de abuso.",
+    "dica": "Poder de polícia administrativa não é sinônimo de polícia judiciária."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Serviços públicos, delegação e controle",
+    "resumo": "Revise titularidade, princípios da prestação, regulamentação, fiscalização e delegação por concessão, permissão e autorização, conforme regime aplicável. Conheça controle administrativo, judicial e legislativo e responsabilidade civil do Estado.",
+    "dica": "Delegar a execução de um serviço não significa necessariamente transferir sua titularidade."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Licitações — foco específico",
+    "resumo": "Domine a Lei 14.133/2021: fases, modalidades, julgamento, contratação direta, dispensa, inexigibilidade, revogação, invalidação e controle. Compare situações práticas e identifique a solução legal cabível.",
+    "dica": "Não confunda modalidade de licitação com critério de julgamento."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Estruturas organizacionais e processo administrativo",
+    "resumo": "Estruturas funcionais, divisionais e matriciais distribuem autoridade de formas distintas. Departamentalização pode ser por função, produto, cliente, território ou processo. Planejamento define objetivos; organização aloca recursos; direção mobiliza; controle acompanha resultados.",
+    "dica": "Planejamento, organização, direção e controle são funções administrativas clássicas."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Gestão de processos, qualidade e projetos",
+    "resumo": "Processo é conjunto recorrente de atividades que gera entregas; projeto é esforço temporário com resultado definido. Mapeamento, indicadores, melhoria contínua, ciclo PDCA e análise de gargalos ajudam a elevar qualidade e eficiência.",
+    "dica": "PDCA: planejar, executar, verificar e agir para melhorar."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Gestão de pessoas e comportamento organizacional",
+    "resumo": "Estude recrutamento e desenvolvimento, políticas de pessoal, sistemas de informação gerencial, motivação, liderança, comunicação e relação indivíduo-organização. Diferencie liderança de autoridade formal.",
+    "dica": "Uma equipe pode ter chefia formal e lideranças informais."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Materiais, compras e estoques",
+    "resumo": "Classifique materiais por finalidade, criticidade e consumo; revise controle de estoques, ponto de reposição, compras, cadastro de fornecedores, recebimento, conferência, armazenagem e inventário.",
+    "dica": "O inventário compara o registro patrimonial/estoque com a existência física."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Arquivologia e ciclo documental",
+    "resumo": "Arquivos correntes atendem uso frequente; intermediários aguardam destinação; permanentes preservam valor histórico/probatório. Estude protocolo, avaliação, classificação, temporalidade, tipologias, suportes, microfilmagem, automação e preservação.",
+    "dica": "Tabela de temporalidade orienta prazos de guarda e destinação documental."
+  },
+  {
+    "disciplina": "Conhecimentos Específicos",
+    "titulo": "Atendimento ao público e relações interpessoais",
+    "resumo": "Atender bem exige cortesia, empatia, discrição, objetividade, eficiência, acessibilidade e comunicação clara. Revise trabalho em equipe, postura profissional, conflitos, escuta ativa e relacionamento entre servidor e cidadão.",
+    "dica": "Atendimento de qualidade combina solução correta com respeito ao usuário."
+  }
+]

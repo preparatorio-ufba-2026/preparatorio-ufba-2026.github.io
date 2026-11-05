@@ -9,3 +9,5 @@ PREPARATÓRIO UFBA 2026 — PRIMEIRA VERSÃO
 7. O documento PC/MS recebido é de recursos, não gabarito completo. Os gabaritos IMASUL são preliminares; conferir definitivos antes de importar questões.
 
 ACESSO: A tela de senha usa validação local por hash e sessão. Não protege de verdade os arquivos públicos do GitHub Pages. Para proteção real, use hospedagem com autenticação no servidor.
+
+NOVO: Aba RESUMOS com revisão por disciplina, busca, marcação de tópicos revisados e impressão. Publique também resumos.json.
