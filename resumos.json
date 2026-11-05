@@ -3,210 +3,735 @@
     "disciplina": "Língua Portuguesa",
     "titulo": "Interpretação e gêneros textuais",
     "resumo": "Identifique tema, tese, ideias centrais, informações explícitas e inferências sustentadas pelo texto. Diferencie fato de opinião e observe a finalidade comunicativa. Narração relata acontecimentos; descrição caracteriza; exposição explica; argumentação defende uma tese; injunção orienta ações.",
-    "dica": "Em questões de interpretação, volte ao trecho: uma alternativa plausível não é necessariamente a que o texto afirma."
+    "dica": "Em questões de interpretação, volte ao trecho: uma alternativa plausível não é necessariamente a que o texto afirma.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Interpretação exige localizar informação expressa e construir inferências autorizadas pelo texto; inferir não é inventar. Tema é o assunto geral; tese é a posição defendida; argumento é a justificativa; conclusão retoma ou decorre da argumentação. Identifique quem fala, para quem, com qual objetivo e em que contexto."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Tipos textuais: narração (ações no tempo, narrador e personagens), descrição (caracterização), exposição (informação e explicação), argumentação (defesa de ponto de vista) e injunção (ordem, instrução ou orientação). Gêneros são formas sociais concretas: notícia, artigo de opinião, ofício, relatório, edital e e-mail; um gênero pode combinar tipos."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Exemplo: “O setor ampliou o atendimento, mas ainda há filas”. O conectivo mas indica contraste, não causa. Questões costumam pedir ideia principal, pressupostos, ironia, referência de pronomes e intenção comunicativa."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Língua Portuguesa",
     "titulo": "Ortografia, acentuação e formação de palavras",
     "resumo": "Revise as regras de oxítonas, paroxítonas e proparoxítonas; hiatos e uso do hífen conforme o Acordo Ortográfico. Reconheça radical, prefixo, sufixo, derivação e composição.",
-    "dica": "Atenção a por que, porque, por quê e porquê, e a pares como sessão/seção/cessão."
+    "dica": "Atenção a por que, porque, por quê e porquê, e a pares como sessão/seção/cessão.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Oxítonas: acentuam-se, em geral, as terminadas em a(s), e(s), o(s), em(ens): café, também. Paroxítonas: acentuam-se terminações como l, n, r, x, i(s), us, um(uns), ã(s), ão(s), ditongo: fácil, hífen, júri, história. Proparoxítonas são todas acentuadas: público."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Hiatos com i/u tônicos podem receber acento conforme regras e exceções: saída, baú; não se acentua feiura. O acordo eliminou o trema em palavras portuguesas e alguns acentos diferenciais; permanecem pôde/pode e pôr/por. Prefixação: infeliz; sufixação: felizmente; parassíntese: envelhecer; composição: guarda-chuva."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Hífen: anti-inflamatório (mesma vogal), micro-ondas; autoescola (vogais diferentes); antissocial (duplicação do s). Atenção a por que (pergunta/razão), porque (explicação), por quê (fim de frase) e porquê (substantivo)."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Língua Portuguesa",
     "titulo": "Coesão, coerência e conectivos",
     "resumo": "Coesão é a ligação linguística entre partes do texto; coerência é a articulação lógica das ideias. Pronomes, elipses, repetições e substituições retomam referentes. Conectivos expressam causa, oposição, condição, conclusão e finalidade.",
-    "dica": "Trocar “porém” por “portanto” altera a relação lógica e pode mudar o sentido."
+    "dica": "Trocar “porém” por “portanto” altera a relação lógica e pode mudar o sentido.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Coesão referencial liga termos por pronomes, sinônimos, elipses e repetição controlada. Anáfora retoma termo anterior; catáfora antecipa termo posterior. Coesão sequencial usa conectores para articular progressão."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Coerência depende da compatibilidade lógica e contextual das ideias. Conectores: adição (além disso), oposição (porém), causa (porque), consequência (por isso), condição (se), concessão (embora), finalidade (para que), conclusão (portanto)."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Exemplo: “O pedido estava incompleto; portanto, foi devolvido” expressa consequência. Trocar portanto por entretanto altera a relação semântica. Observe também a quem se refere “seu” em frases ambíguas."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Língua Portuguesa",
     "titulo": "Morfossintaxe e análise de períodos",
     "resumo": "Identifique classes gramaticais e funções sintáticas: sujeito, predicado, complementos, adjuntos e aposto. Diferencie coordenação e subordinação; reconheça orações adjetivas, substantivas e adverbiais, pronomes relativos e vozes verbais.",
-    "dica": "Em voz passiva analítica, “O setor arquivou os documentos” vira “Os documentos foram arquivados pelo setor”."
+    "dica": "Em voz passiva analítica, “O setor arquivou os documentos” vira “Os documentos foram arquivados pelo setor”.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Classes de palavras: substantivo nomeia; adjetivo caracteriza; artigo determina; pronome substitui/acompanha; numeral quantifica; verbo expressa ação/estado; advérbio modifica; preposição relaciona; conjunção liga; interjeição exprime reação. A função depende do contexto."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Na oração, sujeito e predicado são termos essenciais; objeto direto e indireto, complemento nominal e agente da passiva são integrantes; adjunto adnominal, adjunto adverbial e aposto são acessórios; vocativo é termo independente. Período simples tem uma oração; composto, duas ou mais."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Coordenação reúne orações sintaticamente independentes (aditiva, adversativa, alternativa, conclusiva, explicativa). Subordinação cria dependência (substantivas, adjetivas restritivas/explicativas e adverbiais). Voz ativa: “A equipe analisou o processo”; passiva: “O processo foi analisado pela equipe”."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Língua Portuguesa",
     "titulo": "Pontuação, concordância, regência e crase",
     "resumo": "A vírgula separa elementos e orações, mas em regra não separa sujeito e verbo. Concordância relaciona verbos e nomes aos seus termos. Regência define preposições exigidas. Crase é a fusão da preposição “a” com artigo/pronome compatível. Revise também colocação pronominal.",
-    "dica": "Teste a crase trocando a palavra feminina por masculina: “à universidade” → “ao instituto”."
+    "dica": "Teste a crase trocando a palavra feminina por masculina: “à universidade” → “ao instituto”.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Vírgula separa elementos enumerados, apostos, vocativos, adjuntos deslocados e certas orações; não separa, em regra, sujeito do verbo nem verbo de complemento. Dois-pontos anunciam enumeração ou explicação; ponto e vírgula separa segmentos mais extensos; travessões e parênteses isolam intercalações."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Concordância verbal: o verbo concorda com o núcleo do sujeito; “haver” no sentido de existir é impessoal (“Havia documentos”); “fazer” indicando tempo também (“Faz dois anos”). Concordância nominal: adjetivos e determinantes concordam com o substantivo; cuidado com “anexo”, “incluso”, “obrigado”."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Regência trata das preposições exigidas: assistir ao filme (ver), obedecer às normas, preferir X a Y. Crase ocorre na fusão de a + a(s): “Encaminhou o pedido à chefia”; não ocorre antes de verbo: “a analisar”. Colocação pronominal: palavras negativas atraem próclise (“Não se admite”); após verbo inicial pode haver ênclise (“Encaminhou-se”)."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Língua Portuguesa",
     "titulo": "Semântica, reescrita e variação linguística",
     "resumo": "Distinga denotação e conotação, sinônimos, antônimos, homônimos, parônimos e ambiguidades. Identifique metáfora, ironia, hipérbole, antítese e metonímia. Reescreva frases preservando sentido, correção e registro adequado.",
-    "dica": "A banca pode pedir equivalência de sentido, não apenas correção gramatical."
+    "dica": "A banca pode pedir equivalência de sentido, não apenas correção gramatical.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Denotação é sentido literal; conotação é figurado. Sinonímia aproxima sentidos sem garantir intercambialidade total; antonímia opõe; homonímia envolve formas iguais e sentidos distintos; paronímia, formas semelhantes (“ratificar” e “retificar”)."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Figuras: metáfora transfere sentido por semelhança; metonímia por associação; hipérbole exagera; ironia expressa crítica por contraste; antítese contrapõe ideias. Ambiguidade pode nascer de pontuação, pronomes ou posição de termos."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Reescrita deve preservar informação, referência, tempo verbal e relação lógica. Voz passiva analítica usa ser + particípio; alterações de ordem podem mudar ênfase ou gerar ambiguidade. Variação linguística: escolha registro formal na redação oficial, sem tratar variantes informais como ausência de linguagem."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Língua Portuguesa",
     "titulo": "Redação oficial",
     "resumo": "O Manual de Redação da Presidência da República (3ª edição) orienta comunicações com clareza, concisão, impessoalidade, formalidade e padronização. Revise pronomes de tratamento, identificação do destinatário, assunto, corpo e fecho dos expedientes.",
-    "dica": "Em documento oficial, prefira linguagem objetiva e evite opiniões pessoais e informalidades."
+    "dica": "Em documento oficial, prefira linguagem objetiva e evite opiniões pessoais e informalidades.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "O Manual de Redação da Presidência da República, 3ª edição, orienta comunicações oficiais por clareza, precisão, objetividade, concisão, coesão, impessoalidade, formalidade e padronização. Impessoalidade não significa texto incompreensível: significa foco no interesse público e tratamento institucional."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "No padrão ofício, revise identificação do expediente, local e data, destinatário, assunto, texto, fecho e identificação do signatário. “Atenciosamente” é fecho usual para autoridade de mesma hierarquia ou inferior; “Respeitosamente”, para superior hierárquico, conforme o manual. Pronomes de tratamento exigem concordância na terceira pessoa: “Vossa Senhoria encaminhou”."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Treine transformar mensagem informal em despacho objetivo: “Manda os papéis logo” → “Solicita-se o encaminhamento dos documentos até a data indicada”. Evite jargões, excesso de adjetivos, redundâncias e fórmulas de cortesia desnecessárias."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Noções de Informática",
     "titulo": "Conceitos básicos, Windows e arquivos",
     "resumo": "Diferencie hardware, software, sistema operacional e aplicativos. No Windows 10 ou posterior, revise Explorador de Arquivos, caminhos, extensões, pastas, atalhos, lixeira, permissões e operações de copiar, mover e renomear.",
-    "dica": "Copiar preserva o original; mover transfere a localização do arquivo."
+    "dica": "Copiar preserva o original; mover transfere a localização do arquivo.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Hardware é a parte física (CPU, RAM, SSD, periféricos); software são programas e sistemas. RAM é volátil; SSD e HD armazenam dados de forma persistente. Sistema operacional gerencia processos, memória, dispositivos, usuários e arquivos."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "No Windows 10/11, domine Explorador de Arquivos, copiar/recortar/colar, renomear, propriedades, extensões, pesquisa, Lixeira, permissões e configurações. Caminhos identificam local: C:\\Documentos\\Relatorio.docx. Extensão sugere formato, mas renomeá-la não converte o conteúdo."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Atalhos úteis: Ctrl+C copiar, Ctrl+X recortar, Ctrl+V colar, Ctrl+Z desfazer, Win+E abrir Explorador, Alt+Tab alternar janelas. Backup não é a mesma coisa que mover arquivos para a Lixeira."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Noções de Informática",
     "titulo": "Word, Excel e PowerPoint / Microsoft 365",
     "resumo": "No editor de texto: formatação, estilos, margens, revisão e tabelas. Na planilha: células, referências relativas e absolutas, filtros, gráficos e funções como SOMA, MÉDIA e SE. Em apresentações: slides, layouts, temas e transições.",
-    "dica": "Em Excel, $A$1 é referência absoluta; A1 é relativa."
+    "dica": "Em Excel, $A$1 é referência absoluta; A1 é relativa.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Word: estilos, títulos, margens, cabeçalho/rodapé, quebras de página, tabelas, revisão, controle de alterações, localizar/substituir, mala direta e exportação em PDF. Formatar com estilos facilita sumário automático e padronização."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Excel: célula, linha, coluna, referência relativa A1, absoluta $A$1 e mista $A1/A$1; fórmulas começam com =. Funções comuns: =SOMA(A1:A5), =MÉDIA(B1:B5), =SE(C2>=7;\"Aprovado\";\"Rever\"), =CONT.SE(A:A;\"Sim\"). Ordenação e filtros ajudam análise de tabelas."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "PowerPoint: layouts, temas, mestre de slides, transições e animações. Microsoft 365 integra salvamento em nuvem, compartilhamento e coautoria. Distinga fórmula de função e saiba o efeito de copiar fórmulas com referências absolutas."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Noções de Informática",
     "titulo": "E-mail, Outlook e colaboração",
     "resumo": "Conheça destinatário, CC, CCO, anexos, resposta, encaminhamento, spam e etiqueta digital. Diferencie edição simultânea, permissões de visualização/edição e compartilhamento de arquivos.",
-    "dica": "CCO oculta os destinatários entre si; verifique destinatários e anexos antes de enviar."
+    "dica": "CCO oculta os destinatários entre si; verifique destinatários e anexos antes de enviar.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "E-mail: destinatário (Para), cópia (Cc), cópia oculta (Cco), assunto, corpo, anexos, responder, responder a todos e encaminhar. Cco oculta destinatários dos demais, mas não impede que o destinatário divulgue a mensagem."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "No Outlook e similares, domine pastas, filtros, regras, pesquisa, assinatura, calendário e convites. Colaboração envolve permissões de visualização/edição, controle de versões e comentários em arquivos compartilhados."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Antes de enviar documento institucional, confira destinatários, dados pessoais, anexo e classificação da informação. Phishing pode simular remetente legítimo; não confie apenas no nome exibido."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Noções de Informática",
     "titulo": "Internet, intranet, navegadores e nuvem",
     "resumo": "Internet é a rede pública global; intranet é rede privada institucional. Revise URLs, HTTPS, abas, favoritos, histórico, downloads, mecanismos de busca e armazenamento em nuvem com sincronização e controle de acesso.",
-    "dica": "HTTPS protege a comunicação em trânsito, mas não garante que um site seja legítimo."
+    "dica": "HTTPS protege a comunicação em trânsito, mas não garante que um site seja legítimo.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Internet é rede pública de redes; intranet é rede privada que utiliza tecnologias da internet. URL identifica recurso; HTTPS indica comunicação criptografada com o servidor, não garante que o conteúdo do site seja confiável."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Navegadores usam abas, histórico, favoritos, downloads, cache, cookies e extensões. Cookies podem manter sessão; cache acelera carregamento. Pesquisa eficiente usa termos específicos e operadores como aspas para expressão exata."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Nuvem oferece armazenamento e processamento remoto; sincronização replica alterações, enquanto backup preserva versões recuperáveis. Compartilhar por link pode expor dados se a permissão estiver aberta a qualquer pessoa."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Noções de Informática",
     "titulo": "Redes e conectividade",
     "resumo": "Conheça conceitos de LAN, Wi-Fi, roteador, endereço IP, DNS, modem, compartilhamento de recursos e conexão cliente-servidor.",
-    "dica": "DNS traduz nomes de domínio em endereços usados para localizar serviços na rede."
+    "dica": "DNS traduz nomes de domínio em endereços usados para localizar serviços na rede.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Rede conecta dispositivos para troca de dados e serviços. LAN cobre área local; WAN, área ampla. Roteador encaminha pacotes entre redes; switch conecta dispositivos na rede local; modem adapta sinal de acesso conforme tecnologia."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "IP identifica interface na rede; DNS traduz nomes de domínio em endereços; DHCP distribui configurações automaticamente; Wi-Fi é acesso sem fio, não sinônimo de internet. Protocolos comuns: HTTP/HTTPS (web), SMTP (envio de e-mail), IMAP (acesso/sincronização)."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Problema de rede pode ser local (Wi-Fi), de roteamento ou do serviço remoto. Em questão de prova, distinga equipamento, protocolo e serviço."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Noções de Informática",
     "titulo": "Segurança digital, ameaças e backup",
     "resumo": "Princípios de confidencialidade, integridade e disponibilidade. Phishing tenta obter dados por fraude; malware é software malicioso; ransomware pode bloquear ou criptografar dados. Use MFA, senhas fortes, atualizações, antivírus, firewall e cópias de segurança.",
-    "dica": "Backup deve ser testado e mantido separado dos dados originais quando possível."
+    "dica": "Backup deve ser testado e mantido separado dos dados originais quando possível.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Segurança da informação: confidencialidade (somente autorizados acessam), integridade (não alteração indevida) e disponibilidade (acesso quando necessário). Autenticidade e rastreabilidade também são relevantes."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Ameaças: vírus depende de hospedeiro, worm pode se propagar automaticamente, trojan disfarça função, ransomware sequestra dados, spyware coleta informações. Engenharia social manipula pessoas; phishing usa mensagens fraudulentas."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Boas práticas: senhas únicas e fortes, autenticação multifator, atualização de sistemas, antivírus, firewall, menor privilégio, bloqueio de tela e backups testados. Estratégia 3-2-1: três cópias, em dois tipos de mídia, uma fora do ambiente principal."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "Constituição e princípios administrativos",
     "resumo": "O art. 37 da Constituição estabelece legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE). Revise administração direta e indireta, ingresso no serviço público, cargos e regras gerais aplicáveis aos agentes públicos.",
-    "dica": "Legalidade administrativa: o agente atua dentro das competências e permissões previstas no ordenamento."
+    "dica": "Legalidade administrativa: o agente atua dentro das competências e permissões previstas no ordenamento.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Art. 37 da Constituição: legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE). Legalidade administrativa vincula o agente às competências legais; impessoalidade veda favorecimentos; moralidade exige ética; publicidade permite controle social com exceções legais; eficiência busca resultados adequados."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Administração direta integra órgãos da União, estados, DF e municípios. Administração indireta possui pessoas jurídicas como autarquias, fundações públicas, empresas públicas e sociedades de economia mista. Art. 37 trata também de concurso público, acumulação de cargos, teto e responsabilidade estatal."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Atenção: publicidade não autoriza divulgar dados pessoais sem base legal; eficiência não dispensa legalidade. Leia os incisos do art. 37 e o capítulo constitucional da Administração Pública."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "Organização administrativa e agentes públicos",
     "resumo": "Administração direta integra entes federativos; indireta inclui autarquias, fundações públicas, empresas públicas e sociedades de economia mista. Descentralização distribui atividades entre pessoas; desconcentração reparte competências dentro da mesma pessoa jurídica.",
-    "dica": "Órgão não se confunde com entidade dotada de personalidade jurídica."
+    "dica": "Órgão não se confunde com entidade dotada de personalidade jurídica.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Descentralização transfere execução/competência a outra pessoa jurídica; desconcentração distribui competências dentro da mesma pessoa jurídica, criando órgãos. Órgão não se confunde com entidade."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Autarquia é pessoa jurídica de direito público criada por lei; empresa pública e sociedade de economia mista têm personalidade de direito privado e diferenças na composição do capital. Fundações públicas variam conforme o regime jurídico previsto."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Agentes públicos abrangem agentes políticos, servidores estatutários, empregados públicos e particulares em colaboração. Cargo público costuma vincular-se a regime estatutário; emprego público, ao regime celetista. Investidura, provimento, deveres e responsabilidades exigem distinção."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "Lei 8.112/1990 — regime dos servidores federais",
     "resumo": "Revise provimento e vacância, posse e exercício, remoção e redistribuição, direitos, vantagens, licenças, afastamentos, deveres, proibições, responsabilidades e processo administrativo disciplinar.",
-    "dica": "Remoção desloca o servidor no mesmo quadro; redistribuição desloca o cargo efetivo entre órgãos ou entidades, conforme requisitos legais."
+    "dica": "Remoção desloca o servidor no mesmo quadro; redistribuição desloca o cargo efetivo entre órgãos ou entidades, conforme requisitos legais.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Lei 8.112/1990 rege servidores civis da União, autarquias e fundações públicas federais. Provimento inclui nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução; vacância inclui exoneração, demissão, promoção, readaptação, aposentadoria, posse em outro cargo inacumulável e falecimento."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Posse ocorre em 30 dias contados da publicação do ato de provimento; exercício, em regra, em 15 dias da posse. Estágio probatório e estabilidade têm fundamentos e regras que precisam ser estudados em conjunto com a Constituição e a legislação vigente. Remoção é deslocamento do servidor; redistribuição, do cargo."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Revise direitos, vantagens, férias, licenças, afastamentos, deveres, proibições, responsabilidades e penalidades (advertência, suspensão, demissão, cassação de aposentadoria/disponibilidade, destituição). No PAD, memorize fases e garantias de contraditório e ampla defesa; confira texto atualizado."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "Ética, improbidade e responsabilidade",
     "resumo": "Estude o Código de Ética (Decreto 1.171/1994), o Sistema de Gestão da Ética (Decreto 6.029/2007) e a Lei 8.429/1992 atualizada. Diferencie conduta antiética, infração disciplinar e ato de improbidade; não são conceitos equivalentes.",
-    "dica": "A caracterização da improbidade exige atenção ao texto legal vigente e ao elemento subjetivo exigido para cada hipótese."
+    "dica": "A caracterização da improbidade exige atenção ao texto legal vigente e ao elemento subjetivo exigido para cada hipótese.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Decreto 1.171/1994 aprova Código de Ética do Servidor Civil do Executivo Federal: dignidade, decoro, honestidade, finalidade pública e respeito ao cidadão. Decreto 6.029/2007 organiza Sistema de Gestão da Ética do Poder Executivo Federal."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Improbidade (Lei 8.429/1992, alterada pela Lei 14.230/2021) distingue enriquecimento ilícito, prejuízo ao erário e atentado a princípios. A configuração dos atos tipificados exige dolo, segundo a redação atual; irregularidade administrativa não equivale automaticamente a improbidade."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Diferencie responsabilidade civil, penal, administrativa e por improbidade. Sanções variam conforme tipo legal e condições do caso; não memorize resumos antigos que ignoram as alterações de 2021."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "Processo administrativo — Lei 9.784/1999",
     "resumo": "Estude princípios, competência, impedimento, suspeição, motivação, instrução, participação do interessado, decisões, prazos e recursos. Diferencie anulação de ato ilegal e revogação por conveniência e oportunidade, quando cabível.",
-    "dica": "Anulação se liga à ilegalidade; revogação à avaliação de mérito administrativo."
+    "dica": "Anulação se liga à ilegalidade; revogação à avaliação de mérito administrativo.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Lei 9.784/1999 regula processo administrativo no âmbito federal: legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Administrado tem direito a ciência da tramitação, vista de autos, apresentação de alegações e assistência facultativa por advogado, salvo exigência legal. Administração deve decidir expressamente; em regra, prazo de decisão após instrução é de até 30 dias, prorrogável motivadamente por igual período."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Anulação retira ato ilegal; revogação retira ato válido por conveniência e oportunidade. Recurso administrativo, em regra, tem prazo de dez dias da ciência/divulgação, salvo regra específica. Prazo decadencial para anular atos favoráveis é, em regra, cinco anos, ressalvada má-fé."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "LAI e transparência",
     "resumo": "A Lei 12.527/2011 disciplina o acesso a informações públicas. Transparência ativa é divulgação espontânea; passiva é resposta a pedido. Estude prazos, exceções, informações pessoais e hipóteses de sigilo.",
-    "dica": "Publicidade é regra, mas não elimina a proteção legal de informações pessoais e sigilosas."
+    "dica": "Publicidade é regra, mas não elimina a proteção legal de informações pessoais e sigilosas.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Lei 12.527/2011 (LAI) adota publicidade como regra e sigilo como exceção. Transparência ativa: divulgação espontânea de informações; passiva: resposta a pedidos de informação. O pedido não precisa indicar motivo."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Prazo de resposta: acesso imediato quando disponível; se não, até 20 dias, prorrogáveis por mais dez com justificativa. Classificação de sigilo: ultrassecreta (até 25 anos), secreta (até 15), reservada (até 5), observadas regras legais."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Informações pessoais têm proteção específica; LAI e LGPD devem ser conciliadas. Dados de interesse público podem exigir publicidade, mas divulgação indiscriminada de dados sensíveis não é regra."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "LGPD no setor público",
     "resumo": "A Lei 13.709/2018 trata de dados pessoais, dados sensíveis, titulares, agentes de tratamento, finalidades e bases legais. No poder público, o tratamento deve respeitar finalidade pública, necessidade, transparência e segurança.",
-    "dica": "Não presuma que toda utilização de dados pelo órgão depende de consentimento: há outras bases legais."
+    "dica": "Não presuma que toda utilização de dados pelo órgão depende de consentimento: há outras bases legais.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "LGPD: dado pessoal identifica ou torna identificável pessoa natural; dado sensível inclui saúde, biometria, origem racial, religião etc. Titular é a pessoa a quem os dados se referem; controlador decide finalidades/meios; operador trata dados em nome do controlador."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Princípios: finalidade, adequação, necessidade, livre acesso, qualidade, transparência, segurança, prevenção, não discriminação e responsabilização/prestação de contas. Bases legais não se limitam ao consentimento; poder público pode tratar dados para execução de políticas públicas nos termos legais."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Exemplo: cadastro de estudante deve coletar só dados necessários à finalidade e restringir acesso. Incidentes demandam medidas de segurança e, quando aplicável, comunicação conforme normas da ANPD. LGPD não revoga a LAI."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "Licitações e contratos — Lei 14.133/2021",
     "resumo": "Revise princípios, fases da licitação, modalidades (pregão, concorrência, concurso, leilão e diálogo competitivo), critérios de julgamento, contratação direta, dispensa e inexigibilidade, fiscalização, alterações, sanções e controle.",
-    "dica": "Dispensa: competição pode ser viável, mas a lei autoriza contratar diretamente; inexigibilidade: competição é inviável."
+    "dica": "Dispensa: competição pode ser viável, mas a lei autoriza contratar diretamente; inexigibilidade: competição é inviável.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Lei 14.133/2021: princípios incluem legalidade, impessoalidade, moralidade, publicidade, eficiência, planejamento, transparência, segregação de funções, competitividade e julgamento objetivo. Fases em regra: preparatória, divulgação do edital, propostas/lances, julgamento, habilitação, recursal e homologação."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo. Critérios de julgamento incluem menor preço, maior desconto, melhor técnica/conteúdo artístico, técnica e preço, maior lance e maior retorno econômico. Dispensa: competição possível, mas lei autoriza contratação direta; inexigibilidade: competição inviável."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Gestão e fiscalização acompanham execução contratual, alterações, pagamentos e sanções. Valores-limite de dispensa podem ser atualizados por decreto: consulte sempre os valores vigentes e não os memorize de materiais desatualizados."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "Governança, integridade e controles",
     "resumo": "Governança direciona, monitora e avalia a atuação institucional; gestão executa. Estude riscos, controles internos, integridade, accountability e responsabilização. O edital também cita o Decreto 9.830/2019.",
-    "dica": "Controle interno não se confunde com controle externo exercido pelos órgãos competentes."
+    "dica": "Controle interno não se confunde com controle externo exercido pelos órgãos competentes.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Governança define direção, supervisão e avaliação para gerar valor público; gestão executa decisões. Riscos são eventos incertos que afetam objetivos; controles internos previnem/detectam falhas; integridade combate desvios e conflitos de interesses."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Accountability combina prestação de contas e responsabilização. Três linhas de atuação, conforme modelo adotado: gestão operacional, funções de risco/conformidade e auditoria interna independente."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Decreto 9.830/2019 regulamenta dispositivos da LINDB sobre decisões administrativas: consideração de consequências práticas, motivação e segurança jurídica. Evite tratar resultado desejado como justificativa para ignorar a lei."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "Governo digital, sustentabilidade e atendimento",
     "resumo": "Lei 14.129/2021: simplificação e digitalização de serviços. A3P: uso racional de recursos e práticas socioambientais. Atendimento ao usuário exige acessibilidade, comunicação clara, respeito e canais adequados.",
-    "dica": "Serviço digital deve buscar acessibilidade, não excluir quem necessita de atendimento assistido."
+    "dica": "Serviço digital deve buscar acessibilidade, não excluir quem necessita de atendimento assistido.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Lei 14.129/2021 orienta governo digital, eficiência, desburocratização e participação do cidadão. Serviços digitais devem buscar acessibilidade, interoperabilidade, transparência e proteção de dados."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "A3P é agenda de sustentabilidade na administração pública: uso racional de água/energia/papel, gestão de resíduos, compras sustentáveis, qualidade de vida e sensibilização de servidores."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Carta de Serviços ao Usuário apresenta serviços, requisitos, etapas, prazos e canais. Atendimento deve ser acessível, respeitoso, inclusivo e eficiente, com registro de demandas e orientação clara."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "Gestão documental, patrimônio e segurança",
     "resumo": "Lei 8.159/1991: produção, tramitação, classificação, guarda, destinação e acesso a documentos. Revise almoxarifado, inventário, controle patrimonial, conservação e segurança de dados e documentos institucionais.",
-    "dica": "Documento permanente tem valor de guarda duradoura; eliminação depende de avaliação e procedimento adequado."
+    "dica": "Documento permanente tem valor de guarda duradoura; eliminação depende de avaliação e procedimento adequado.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Lei 8.159/1991 estabelece política nacional de arquivos públicos e privados. Gestão documental compreende produção, tramitação, uso, avaliação e arquivamento, com destinação final (eliminação ou guarda permanente) conforme instrumentos próprios."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Protocolo controla recebimento, registro, classificação, distribuição e movimentação. Arquivos correntes são de uso frequente; intermediários aguardam destinação; permanentes têm valor histórico/probatório e preservação duradoura."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Almoxarifado controla entradas, saídas, estoque e armazenamento; inventário confere existência e situação de bens; patrimônio exige tombamento e controle. Proteção de dados e de documentos físicos/digitais integra a rotina administrativa."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Administração Pública",
     "titulo": "IFES e Estatuto/Regimento da UFBA",
     "resumo": "Revise autonomia universitária, estrutura acadêmica e administrativa, órgãos colegiados, competências e direitos/deveres da comunidade universitária. O edital exige expressamente o Estatuto e o Regimento Geral da UFBA.",
-    "dica": "Para competências e composição de órgãos, estude os dispositivos do texto oficial da UFBA; este resumo é introdutório."
+    "dica": "Para competências e composição de órgãos, estude os dispositivos do texto oficial da UFBA; este resumo é introdutório.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Universidades federais possuem autonomia didático-científica, administrativa e de gestão financeira e patrimonial, nos termos do art. 207 da Constituição, respeitada a legislação. IFES articulam órgãos acadêmicos, administrativos e colegiados."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Estatuto e Regimento Geral da UFBA disciplinam organização institucional, competências dos órgãos universitários, estrutura acadêmica, direitos/deveres e funcionamento. Para questões literais, a fonte decisiva é o texto oficial vigente, não um resumo genérico."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Roteiro: localizar organograma e órgãos superiores, identificar competências, composição, forma de deliberação e relações entre unidades; montar quadro comparativo e revisar os dispositivos oficiais em https://www.ufba.br/arquivos/estatuto-e-regimento-geral."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Estado, governo, administração e organização",
     "resumo": "Estado é a organização político-jurídica; governo conduz diretrizes políticas; Administração Pública executa atividades administrativas. Diferencie administração direta/indireta, órgãos, entidades, cargos, empregos e funções públicas.",
-    "dica": "Uma autarquia tem personalidade jurídica própria e integra a administração indireta."
+    "dica": "Uma autarquia tem personalidade jurídica própria e integra a administração indireta.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Estado é organização política dotada de povo, território e soberania; governo é direção política transitória; Administração Pública é estrutura e atividade de execução das funções administrativas. Sentido subjetivo: órgãos/agentes/entidades; objetivo: atividade administrativa."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Princípios constitucionais LIMPE e princípios reconhecidos (motivação, razoabilidade, proporcionalidade, continuidade, autotutela, segurança jurídica) orientam atuação. Organização administrativa distingue órgãos e entidades, direta e indireta."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Cargo, emprego e função pública não são sinônimos; competência e finalidade limitam a atuação do agente. Compare conceitos por exemplos concretos de universidade federal, ministério e autarquia."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Poderes administrativos e abuso",
     "resumo": "Poder hierárquico organiza e distribui competências; disciplinar apura e sanciona infrações funcionais; regulamentar edita atos normativos nos limites legais; polícia administrativa condiciona atividades em benefício coletivo. Excesso e desvio de poder são formas de abuso.",
-    "dica": "Poder de polícia administrativa não é sinônimo de polícia judiciária."
+    "dica": "Poder de polícia administrativa não é sinônimo de polícia judiciária.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Poder hierárquico organiza e distribui funções, permite fiscalização, delegação e avocação nos limites legais. Poder disciplinar apura e sanciona infrações de pessoas submetidas a vínculo especial com a Administração."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Poder regulamentar permite editar atos normativos para fiel execução da lei, observados limites; poder de polícia condiciona direitos e atividades em benefício do interesse coletivo, com atributos conforme o caso."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Abuso de poder: excesso de poder (agente extrapola competência) e desvio de finalidade (usa competência para fim indevido). A discricionariedade não afasta controle de legalidade."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Serviços públicos, delegação e controle",
     "resumo": "Revise titularidade, princípios da prestação, regulamentação, fiscalização e delegação por concessão, permissão e autorização, conforme regime aplicável. Conheça controle administrativo, judicial e legislativo e responsabilidade civil do Estado.",
-    "dica": "Delegar a execução de um serviço não significa necessariamente transferir sua titularidade."
+    "dica": "Delegar a execução de um serviço não significa necessariamente transferir sua titularidade.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Serviço público visa atender necessidades coletivas sob regime jurídico aplicável. Princípios como continuidade, regularidade, eficiência, segurança e modicidade orientam prestação, conforme a modalidade e a lei."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Concessão e permissão são formas de delegação previstas na Constituição e na legislação; exigem atenção a licitação, contrato e regime. Autorização tem tratamento distinto conforme o setor e a legislação."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Controle administrativo é exercido pela própria Administração; judicial verifica legalidade e tutela direitos; legislativo envolve fiscalização política e financeira, inclusive com tribunais de contas. Responsabilidade civil do Estado, em regra, é objetiva pelos danos causados por seus agentes nessa qualidade, com direito de regresso quando cabível."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Licitações — foco específico",
     "resumo": "Domine a Lei 14.133/2021: fases, modalidades, julgamento, contratação direta, dispensa, inexigibilidade, revogação, invalidação e controle. Compare situações práticas e identifique a solução legal cabível.",
-    "dica": "Não confunda modalidade de licitação com critério de julgamento."
+    "dica": "Não confunda modalidade de licitação com critério de julgamento.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Planejamento da contratação: estudo técnico preliminar, termo de referência/projeto básico conforme o objeto, pesquisa de preços, estimativa de custos e gestão de riscos. A modalidade não deve ser escolhida apenas pelo valor: depende da natureza do objeto e das regras legais."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Pregão para bens e serviços comuns; concorrência para bens/serviços especiais e obras/serviços de engenharia nos termos da lei; concurso para trabalho técnico/científico/artístico; leilão para alienação; diálogo competitivo para hipóteses complexas previstas."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Contratação direta exige processo formal e justificativas; dispensa é hipótese legal, inexigibilidade decorre de inviabilidade de competição. Revogação envolve conveniência/oportunidade; anulação, ilegalidade. Revise impugnação, recursos, fiscalização e sanções."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Estruturas organizacionais e processo administrativo",
     "resumo": "Estruturas funcionais, divisionais e matriciais distribuem autoridade de formas distintas. Departamentalização pode ser por função, produto, cliente, território ou processo. Planejamento define objetivos; organização aloca recursos; direção mobiliza; controle acompanha resultados.",
-    "dica": "Planejamento, organização, direção e controle são funções administrativas clássicas."
+    "dica": "Planejamento, organização, direção e controle são funções administrativas clássicas.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Estruturas: funcional agrupa especialidades; divisional agrupa produtos/regiões/clientes; matricial combina linhas de autoridade; por projetos organiza equipes temporárias; em rede articula unidades e parceiros. Departamentalização define critérios de agrupamento."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Processo administrativo clássico: planejar (objetivos e meios), organizar (recursos), dirigir (liderar e comunicar) e controlar (comparar resultados e corrigir). Níveis de planejamento: estratégico (longo prazo), tático (setorial) e operacional (rotinas)."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Indicadores devem ter definição, fonte, periodicidade e meta. Eficiência compara recursos e resultados; eficácia verifica cumprimento de metas; efetividade observa impacto real na sociedade."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Gestão de processos, qualidade e projetos",
     "resumo": "Processo é conjunto recorrente de atividades que gera entregas; projeto é esforço temporário com resultado definido. Mapeamento, indicadores, melhoria contínua, ciclo PDCA e análise de gargalos ajudam a elevar qualidade e eficiência.",
-    "dica": "PDCA: planejar, executar, verificar e agir para melhorar."
+    "dica": "PDCA: planejar, executar, verificar e agir para melhorar.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Gestão por processos identifica entradas, atividades, responsáveis, saídas e clientes/usuários. Fluxograma visualiza sequência; mapeamento “as is” descreve situação atual e “to be” propõe melhoria. Gargalo é etapa que limita fluxo."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Qualidade: foco no usuário, padronização, melhoria contínua, prevenção de erros e avaliação por indicadores. Ciclo PDCA: planejar, executar, verificar e agir corretivamente. Ferramentas: Pareto, Ishikawa, 5W2H e checklist."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Projeto é esforço temporário para produzir resultado único; operação é atividade contínua. Gerencie escopo, prazo, custo, qualidade, riscos, partes interessadas e comunicação. Mudança de escopo deve ser avaliada antes de executada."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Gestão de pessoas e comportamento organizacional",
     "resumo": "Estude recrutamento e desenvolvimento, políticas de pessoal, sistemas de informação gerencial, motivação, liderança, comunicação e relação indivíduo-organização. Diferencie liderança de autoridade formal.",
-    "dica": "Uma equipe pode ter chefia formal e lideranças informais."
+    "dica": "Uma equipe pode ter chefia formal e lideranças informais.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Gestão de pessoas inclui planejamento de força de trabalho, desenvolvimento, avaliação, saúde ocupacional e apoio às unidades. Alinhamento entre objetivos institucionais e competências é central."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Motivação: teorias de Maslow (necessidades), Herzberg (fatores higiênicos e motivacionais) e McGregor (pressupostos X e Y) são referências clássicas, mas não substituem a análise do contexto. Liderança pode ser diretiva, participativa ou delegadora conforme situação."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Comunicação organizacional formal e informal; clima organizacional é percepção compartilhada; cultura reúne valores e práticas. Feedback específico, respeito e gestão de conflitos favorecem cooperação."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Materiais, compras e estoques",
     "resumo": "Classifique materiais por finalidade, criticidade e consumo; revise controle de estoques, ponto de reposição, compras, cadastro de fornecedores, recebimento, conferência, armazenagem e inventário.",
-    "dica": "O inventário compara o registro patrimonial/estoque com a existência física."
+    "dica": "O inventário compara o registro patrimonial/estoque com a existência física.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Classificação de materiais por consumo, criticidade, perecibilidade, valor e frequência de demanda. Curva ABC ordena itens por impacto financeiro: poucos itens podem representar maior parcela do valor total."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Gestão de estoque equilibra disponibilidade e custo. Estoque mínimo, máximo, ponto de pedido e estoque de segurança dependem de consumo e prazo de reposição. Exemplo simplificado: consumo médio 10 unidades/dia e reposição em 5 dias → demanda durante reposição 50 unidades; somar segurança quando cabível."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Compras: especificação, requisição, seleção/cadastro de fornecedores, contratação, recebimento provisório/definitivo quando aplicável, conferência quantitativa e qualitativa. Armazenagem exige identificação, localização, segurança e critérios como PEPS/FIFO para itens pertinentes."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Arquivologia e ciclo documental",
     "resumo": "Arquivos correntes atendem uso frequente; intermediários aguardam destinação; permanentes preservam valor histórico/probatório. Estude protocolo, avaliação, classificação, temporalidade, tipologias, suportes, microfilmagem, automação e preservação.",
-    "dica": "Tabela de temporalidade orienta prazos de guarda e destinação documental."
+    "dica": "Tabela de temporalidade orienta prazos de guarda e destinação documental.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Arquivologia: arquivo é conjunto orgânico de documentos produzidos/recebidos no exercício de atividades. Princípios incluem proveniência (respeito aos fundos) e organicidade. Documento arquivístico guarda relação com função que o produziu."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Três idades: corrente (uso frequente), intermediária (uso eventual/aguarda prazo) e permanente (guarda definitiva). Tabela de temporalidade define prazos e destinação; avaliação documental identifica valores primários e secundários."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Protocolo registra e controla tramitação. Classificação, descrição e acesso facilitam recuperação; conservação previne danos, restauração intervém em documentos degradados. Microfilmagem e digitalização não significam automaticamente autorização para eliminar originais; observe normas específicas."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   },
   {
     "disciplina": "Conhecimentos Específicos",
     "titulo": "Atendimento ao público e relações interpessoais",
     "resumo": "Atender bem exige cortesia, empatia, discrição, objetividade, eficiência, acessibilidade e comunicação clara. Revise trabalho em equipe, postura profissional, conflitos, escuta ativa e relacionamento entre servidor e cidadão.",
-    "dica": "Atendimento de qualidade combina solução correta com respeito ao usuário."
+    "dica": "Atendimento de qualidade combina solução correta com respeito ao usuário.",
+    "secoes": [
+      {
+        "titulo": "Conceitos e fundamentos",
+        "texto": "Atendimento de qualidade envolve escuta ativa, clareza, cortesia, presteza, discrição, objetividade, acessibilidade e respeito. Primeiro compreenda a demanda; depois oriente com informação verificável, prazos e canais de acompanhamento."
+      },
+      {
+        "titulo": "Desenvolvimento do conteúdo",
+        "texto": "Comunicação verbal e não verbal; ruídos prejudicam entendimento. Empatia é compreender a perspectiva do usuário, não prometer algo que a norma não permite. Em conflitos, mantenha postura profissional, registre fatos e encaminhe corretamente."
+      },
+      {
+        "titulo": "Aplicação e pontos de prova",
+        "texto": "Trabalho em equipe depende de cooperação, confiança, divisão de tarefas, respeito à diversidade e feedback. Atendimento presencial e digital devem proteger informações pessoais e assegurar tratamento isonômico."
+      }
+    ],
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
   }
 ]

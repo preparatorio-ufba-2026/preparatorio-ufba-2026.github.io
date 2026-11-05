@@ -11,3 +11,7 @@ PREPARATÓRIO UFBA 2026 — PRIMEIRA VERSÃO
 ACESSO: A tela de senha usa validação local por hash e sessão. Não protege de verdade os arquivos públicos do GitHub Pages. Para proteção real, use hospedagem com autenticação no servidor.
 
 NOVO: Aba RESUMOS com revisão por disciplina, busca, marcação de tópicos revisados e impressão. Publique também resumos.json.
+
+Atualização: 12 questões da prova ItupevaPrev 2025 (Instituto Avalia), com numeração original, enunciados resumidos, gabarito conferido e comentários.
+
+ATUALIZAÇÃO: 35 aulas-resumo expandidas no arquivo resumos.json. Atualize também o sw.js para renovar o cache do PWA.

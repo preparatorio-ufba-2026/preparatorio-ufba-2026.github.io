@@ -526,5 +526,221 @@
     "resposta": 1,
     "comentario": "A conferência compara a entrega com as especificações e quantidades previstas.",
     "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 1027,
+    "disciplina": "Noções de Informática",
+    "assunto": "Microsoft Teams",
+    "enunciado": "Uma organização deseja restringir a usuários selecionados o acesso e a edição de arquivos dentro do Microsoft Teams. Qual é a melhor prática?",
+    "alternativas": [
+      "Criar canais públicos em todas as equipes.",
+      "Utilizar canais privados para grupos específicos, restringindo o acesso a usuários selecionados.",
+      "Permitir acesso externo sem autorização.",
+      "Desativar a criptografia para melhorar o desempenho.",
+      "Compartilhar arquivos somente por e-mail."
+    ],
+    "resposta": 1,
+    "comentario": "Canais privados permitem delimitar os participantes e controlar o acesso ao conteúdo compartilhado.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 27, prova tipo 01 (gabarito enviado)",
+    "numero_original": 27,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1028,
+    "disciplina": "Noções de Informática",
+    "assunto": "Internet e links",
+    "enunciado": "No contexto da navegação na internet, o que caracteriza um link absoluto?",
+    "alternativas": [
+      "Leva a um local na mesma página.",
+      "Usa uma URL completa, incluindo protocolo, domínio e caminho do recurso.",
+      "Aponta para uma página sem informar o domínio.",
+      "É um link temporário que expira.",
+      "Só pode ser aberto por usuários autenticados."
+    ],
+    "resposta": 1,
+    "comentario": "URL absoluta identifica o recurso de modo completo, incluindo esquema (https), domínio e caminho.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 28, prova tipo 01 (gabarito enviado)",
+    "numero_original": 28,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1029,
+    "disciplina": "Noções de Informática",
+    "assunto": "Hardware",
+    "enunciado": "Qual é a função principal da fonte de alimentação de um computador?",
+    "alternativas": [
+      "Converter a corrente alternada da rede em corrente contínua utilizada pelos componentes.",
+      "Regular a temperatura do gabinete.",
+      "Armazenar temporariamente os dados para a CPU.",
+      "Gerenciar as conexões de rede.",
+      "Controlar as operações de leitura e escrita do SSD."
+    ],
+    "resposta": 0,
+    "comentario": "A fonte converte e distribui energia elétrica adequada aos componentes internos.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 29, prova tipo 01 (gabarito enviado)",
+    "numero_original": 29,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1030,
+    "disciplina": "Noções de Informática",
+    "assunto": "Microsoft Word",
+    "enunciado": "Qual alternativa NÃO corresponde a um tipo de quebra existente no Microsoft Word?",
+    "alternativas": [
+      "Quebra de página.",
+      "Quebra de seção.",
+      "Quebra de linha.",
+      "Quebra de parágrafo.",
+      "Quebra de planilha."
+    ],
+    "resposta": 4,
+    "comentario": "Quebra de planilha não é um recurso de estruturação de documentos do Word.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 30, prova tipo 01 (gabarito enviado)",
+    "numero_original": 30,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1034,
+    "disciplina": "Administração Pública",
+    "assunto": "LGPD",
+    "enunciado": "A Lei Geral de Proteção de Dados (LGPD) tem como objetivo principal:",
+    "alternativas": [
+      "Promover o livre comércio de dados pessoais.",
+      "Regular dados biométricos exclusivamente para segurança pública.",
+      "Garantir circulação irrestrita de dados entre empresas.",
+      "Proteger direitos fundamentais de liberdade e privacidade e o livre desenvolvimento da personalidade.",
+      "Incentivar bancos públicos detalhados sobre todos os cidadãos."
+    ],
+    "resposta": 3,
+    "comentario": "O art. 1º da Lei 13.709/2018 estabelece essa finalidade protetiva.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 34, prova tipo 01 (gabarito enviado)",
+    "numero_original": 34,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1037,
+    "disciplina": "Administração Pública",
+    "assunto": "Princípios administrativos",
+    "enunciado": "Como são chamados os princípios da Administração Pública que não estão expressos no art. 37 da Constituição, mas são reconhecidos pelo ordenamento?",
+    "alternativas": [
+      "Princípios explícitos.",
+      "Princípios implícitos.",
+      "Princípios terciários.",
+      "Princípios organizativos.",
+      "Princípios comutativos."
+    ],
+    "resposta": 1,
+    "comentario": "São princípios implícitos, como razoabilidade e proporcionalidade, que complementam os expressamente previstos.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 37, prova tipo 01 (gabarito enviado)",
+    "numero_original": 37,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1038,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Planejamento",
+    "enunciado": "No planejamento administrativo, qual princípio determina que todos os aspectos envolvidos atuem de forma interdependente?",
+    "alternativas": [
+      "Planejamento coordenado.",
+      "Planejamento participativo.",
+      "Planejamento transitório.",
+      "Planejamento integrado.",
+      "Planejamento permanente."
+    ],
+    "resposta": 0,
+    "comentario": "O princípio do planejamento coordenado busca harmonizar aspectos e atividades interdependentes.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 38, prova tipo 01 (gabarito enviado)",
+    "numero_original": 38,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1042,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Gestão de processos",
+    "enunciado": "Processos que ultrapassam a estrutura de um órgão e envolvem diversos setores da Administração Pública são denominados:",
+    "alternativas": [
+      "Verticais.",
+      "Transversais.",
+      "Superiores.",
+      "Horizontais.",
+      "Inferiores."
+    ],
+    "resposta": 1,
+    "comentario": "Processos transversais atravessam fronteiras organizacionais e dependem de coordenação entre áreas.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 42, prova tipo 01 (gabarito enviado)",
+    "numero_original": 42,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1043,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Gestão de pessoas",
+    "enunciado": "Qual habilidade envolve lidar com o próprio comportamento por meio de autoconhecimento, controle emocional e automotivação?",
+    "alternativas": [
+      "Inteligência intrapessoal.",
+      "Inteligência emocional.",
+      "Inteligência setorial.",
+      "Inteligência interpessoal.",
+      "Inteligência motora."
+    ],
+    "resposta": 0,
+    "comentario": "A inteligência intrapessoal refere-se à compreensão dos próprios estados internos e ao autoconhecimento.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 43, prova tipo 01 (gabarito enviado)",
+    "numero_original": 43,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1044,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Comunicação organizacional",
+    "enunciado": "No processo de comunicação organizacional, como se denomina a circunstância em que a mensagem é transmitida do emissor ao receptor?",
+    "alternativas": [
+      "Objetivo.",
+      "Meio.",
+      "Canal.",
+      "Estímulo.",
+      "Situação."
+    ],
+    "resposta": 4,
+    "comentario": "A situação é o contexto ou circunstância da comunicação; canal é o meio de transmissão.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 44, prova tipo 01 (gabarito enviado)",
+    "numero_original": 44,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1045,
+    "disciplina": "Língua Portuguesa",
+    "assunto": "Redação oficial",
+    "enunciado": "Na redação oficial, a escolha de palavras que assegure perfeita compreensão e evite duplo sentido é chamada de:",
+    "alternativas": [
+      "Objetividade.",
+      "Concisão.",
+      "Padronização.",
+      "Precisão.",
+      "Coesão."
+    ],
+    "resposta": 3,
+    "comentario": "Precisão é a expressão exata das ideias, evitando ambiguidades e termos inadequados.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 45, prova tipo 01 (gabarito enviado)",
+    "numero_original": 45,
+    "prova": "ItupevaPrev 2025"
+  },
+  {
+    "id": 1048,
+    "disciplina": "Administração Pública",
+    "assunto": "Princípio da legalidade",
+    "enunciado": "Qual princípio determina que o agente público e a Administração Pública só podem agir quando autorizados pelo ordenamento jurídico?",
+    "alternativas": [
+      "Razoabilidade.",
+      "Supremacia do interesse público.",
+      "Legalidade.",
+      "Eficiência.",
+      "Motivação."
+    ],
+    "resposta": 2,
+    "comentario": "Na Administração Pública, a legalidade condiciona a atuação administrativa à lei e ao Direito.",
+    "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 48, prova tipo 01 (gabarito enviado)",
+    "numero_original": 48,
+    "prova": "ItupevaPrev 2025"
   }
 ]
