@@ -1,0 +1,1 @@
+{"name": "Meu Preparatório UFBA 2026", "short_name": "UFBA Estudos", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f3f6fb", "theme_color": "#0b2343", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}

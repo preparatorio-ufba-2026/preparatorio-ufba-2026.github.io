@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "disciplina": "Língua Portuguesa",
+    "assunto": "Crase",
+    "enunciado": "Assinale a frase em que o emprego da crase está correto.",
+    "alternativas": [
+      "Entreguei o documento à diretora.",
+      "Cheguei à Salvador ontem.",
+      "Comecei à estudar cedo.",
+      "Enviei o aviso à todos.",
+      "Fui à pé ao setor."
+    ],
+    "resposta": 0,
+    "comentario": "Há fusão da preposição a exigida por entregar com o artigo feminino a de diretora.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 2,
+    "disciplina": "Língua Portuguesa",
+    "assunto": "Concordância",
+    "enunciado": "Qual alternativa apresenta concordância verbal adequada à norma-padrão?",
+    "alternativas": [
+      "Fazem dois anos que trabalho aqui.",
+      "Houveram muitos pedidos.",
+      "Existem documentos pendentes.",
+      "Segue anexas o relatório.",
+      "Deve haverem soluções."
+    ],
+    "resposta": 2,
+    "comentario": "Existir concorda com o sujeito plural documentos. Haver com sentido de existir é impessoal.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 3,
+    "disciplina": "Língua Portuguesa",
+    "assunto": "Coesão",
+    "enunciado": "Em “O setor recebeu os processos; contudo, não os analisou”, a palavra “contudo” indica:",
+    "alternativas": [
+      "Conclusão",
+      "Adição",
+      "Explicação",
+      "Oposição",
+      "Finalidade"
+    ],
+    "resposta": 3,
+    "comentario": "Contudo é conectivo adversativo e introduz oposição à ideia anterior.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 4,
+    "disciplina": "Língua Portuguesa",
+    "assunto": "Pontuação",
+    "enunciado": "Assinale a frase com pontuação correta.",
+    "alternativas": [
+      "Os servidores, atenderam os usuários.",
+      "Após a reunião, a equipe elaborou a ata.",
+      "O diretor solicitou, a documentação.",
+      "O protocolo, recebeu os pedidos ontem.",
+      "A chefia, aprovou, o relatório."
+    ],
+    "resposta": 1,
+    "comentario": "A vírgula separa o adjunto adverbial deslocado “Após a reunião”, sem separar sujeito e verbo.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 5,
+    "disciplina": "Língua Portuguesa",
+    "assunto": "Ortografia",
+    "enunciado": "Qual palavra está grafada corretamente?",
+    "alternativas": [
+      "Excessão",
+      "Privilégio",
+      "Beneficiente",
+      "Pretenção",
+      "Paralização"
+    ],
+    "resposta": 1,
+    "comentario": "A grafia correta é privilégio; as demais são exceção, beneficente, pretensão e paralisação.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 6,
+    "disciplina": "Língua Portuguesa",
+    "assunto": "Redação oficial",
+    "enunciado": "Qual característica deve orientar a redação oficial?",
+    "alternativas": [
+      "Subjetividade e intimidade",
+      "Uso de gírias",
+      "Impessoalidade e clareza",
+      "Linguagem figurada frequente",
+      "Ambiguidade intencional"
+    ],
+    "resposta": 2,
+    "comentario": "Comunicações oficiais devem buscar impessoalidade, clareza, concisão e formalidade adequada.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 7,
+    "disciplina": "Língua Portuguesa",
+    "assunto": "Semântica",
+    "enunciado": "Em “A notícia caiu como uma bomba”, a expressão destacada é usada predominantemente em sentido:",
+    "alternativas": [
+      "Literal",
+      "Denotativo",
+      "Técnico",
+      "Conotativo",
+      "Numérico"
+    ],
+    "resposta": 3,
+    "comentario": "A expressão apresenta sentido figurado, caracterizando conotação.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 8,
+    "disciplina": "Língua Portuguesa",
+    "assunto": "Voz verbal",
+    "enunciado": "Qual é a forma passiva de “A comissão analisou os documentos”?",
+    "alternativas": [
+      "Os documentos analisaram a comissão.",
+      "Os documentos foram analisados pela comissão.",
+      "A comissão foi analisada pelos documentos.",
+      "Analisou-se a comissão pelos documentos.",
+      "Os documentos analisarão a comissão."
+    ],
+    "resposta": 1,
+    "comentario": "Na voz passiva analítica, o objeto direto vira sujeito paciente: os documentos foram analisados.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 9,
+    "disciplina": "Noções de Informática",
+    "assunto": "Segurança da informação",
+    "enunciado": "Qual medida acrescenta uma camada de proteção ao acesso a uma conta institucional?",
+    "alternativas": [
+      "Reutilizar a mesma senha",
+      "Compartilhar credenciais",
+      "Desativar atualizações",
+      "Ativar autenticação em dois fatores",
+      "Anotar a senha em local público"
+    ],
+    "resposta": 3,
+    "comentario": "A autenticação em dois fatores exige uma verificação adicional além da senha.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 10,
+    "disciplina": "Noções de Informática",
+    "assunto": "Phishing",
+    "enunciado": "Uma mensagem que imita o banco e solicita senha por link suspeito é exemplo de:",
+    "alternativas": [
+      "Backup",
+      "Phishing",
+      "Compactação",
+      "Sincronização",
+      "Formatação"
+    ],
+    "resposta": 1,
+    "comentario": "Phishing é uma tentativa de obter informações sensíveis por meio de fraude e engenharia social.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 11,
+    "disciplina": "Noções de Informática",
+    "assunto": "Planilhas",
+    "enunciado": "Em uma planilha, qual fórmula soma os valores de A1 até A5?",
+    "alternativas": [
+      "=MÉDIA(A1:A5)",
+      "=CONT.SE(A1:A5)",
+      "=SOMA(A1:A5)",
+      "=MÁXIMO(A1:A5)",
+      "=A1/A5"
+    ],
+    "resposta": 2,
+    "comentario": "A função SOMA adiciona os valores do intervalo indicado.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 12,
+    "disciplina": "Noções de Informática",
+    "assunto": "Backup",
+    "enunciado": "A principal finalidade de uma rotina de backup é:",
+    "alternativas": [
+      "Aumentar o brilho da tela",
+      "Apagar o antivírus",
+      "Substituir a autenticação",
+      "Recuperar dados em caso de perda ou falha",
+      "Eliminar a necessidade de senhas"
+    ],
+    "resposta": 3,
+    "comentario": "Cópias de segurança permitem recuperar informações após falhas, exclusões ou incidentes.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 13,
+    "disciplina": "Noções de Informática",
+    "assunto": "Windows",
+    "enunciado": "No gerenciamento de arquivos, uma pasta serve principalmente para:",
+    "alternativas": [
+      "Organizar arquivos e subpastas",
+      "Executar antivírus automaticamente",
+      "Substituir a memória RAM",
+      "Garantir conexão à internet",
+      "Criar senhas aleatórias"
+    ],
+    "resposta": 0,
+    "comentario": "Pastas organizam arquivos e podem conter outras pastas.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 14,
+    "disciplina": "Noções de Informática",
+    "assunto": "Nuvem",
+    "enunciado": "Um exemplo de colaboração em nuvem é:",
+    "alternativas": [
+      "Editar arquivo somente em disquete",
+      "Compartilhar documento online com permissões de acesso",
+      "Desligar a rede para editar",
+      "Imprimir todas as versões",
+      "Salvar apenas na área de trabalho"
+    ],
+    "resposta": 1,
+    "comentario": "Serviços em nuvem permitem compartilhar e editar documentos conforme permissões configuradas.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 15,
+    "disciplina": "Administração Pública",
+    "assunto": "Princípios constitucionais",
+    "enunciado": "Qual conjunto corresponde aos princípios expressos no caput do art. 37 da Constituição Federal?",
+    "alternativas": [
+      "Legalidade, impessoalidade, moralidade, publicidade e eficiência",
+      "Legalidade, sigilo, pessoalidade, rapidez e lucro",
+      "Publicidade, hierarquia, lucro, sigilo e moralidade",
+      "Eficiência, exclusividade, pessoalidade, custo e rapidez",
+      "Legalidade, informalidade, rentabilidade, sigilo e eficácia"
+    ],
+    "resposta": 0,
+    "comentario": "O art. 37 consagra legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 16,
+    "disciplina": "Administração Pública",
+    "assunto": "Organização administrativa",
+    "enunciado": "A criação de uma autarquia para executar atividade administrativa caracteriza:",
+    "alternativas": [
+      "Desconcentração",
+      "Descentralização",
+      "Avocação",
+      "Subordinação interna",
+      "Delegação legislativa"
+    ],
+    "resposta": 1,
+    "comentario": "A descentralização distribui competências a outra pessoa jurídica; a desconcentração ocorre dentro da mesma pessoa jurídica.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 17,
+    "disciplina": "Administração Pública",
+    "assunto": "Lei 8.112/1990",
+    "enunciado": "No regime federal, a vacância de cargo público pode decorrer de:",
+    "alternativas": [
+      "Apenas férias",
+      "Apenas licença médica",
+      "Exoneração",
+      "Participação em curso",
+      "Mudança de setor sem alteração do cargo"
+    ],
+    "resposta": 2,
+    "comentario": "A exoneração é uma das hipóteses de vacância previstas na Lei 8.112/1990.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 18,
+    "disciplina": "Administração Pública",
+    "assunto": "LAI",
+    "enunciado": "Transparência ativa significa:",
+    "alternativas": [
+      "Divulgar informações de interesse coletivo independentemente de pedido",
+      "Divulgar somente mediante ordem judicial",
+      "Restringir todos os dados ao gestor",
+      "Exigir justificativa para qualquer acesso",
+      "Eliminar os portais públicos"
+    ],
+    "resposta": 0,
+    "comentario": "A transparência ativa é a divulgação espontânea de informações públicas.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 19,
+    "disciplina": "Administração Pública",
+    "assunto": "LGPD",
+    "enunciado": "Segundo a LGPD, dado pessoal é informação relacionada a:",
+    "alternativas": [
+      "Somente pessoas jurídicas",
+      "Pessoa natural identificada ou identificável",
+      "Apenas documentos sigilosos",
+      "Qualquer objeto patrimonial",
+      "Somente dados bancários"
+    ],
+    "resposta": 1,
+    "comentario": "Dado pessoal relaciona-se a pessoa natural identificada ou identificável.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 20,
+    "disciplina": "Administração Pública",
+    "assunto": "Lei 14.133/2021",
+    "enunciado": "Qual das alternativas apresenta uma modalidade de licitação prevista na Lei 14.133/2021?",
+    "alternativas": [
+      "Tomada de preços",
+      "Convite",
+      "Pregão",
+      "Consulta informal",
+      "Cotação verbal"
+    ],
+    "resposta": 2,
+    "comentario": "O pregão é modalidade prevista na Lei 14.133/2021; convite e tomada de preços não integram a lista de modalidades dessa lei.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 21,
+    "disciplina": "Administração Pública",
+    "assunto": "Processo administrativo",
+    "enunciado": "No processo administrativo federal, a Administração deve observar, entre outros, o princípio da:",
+    "alternativas": [
+      "Arbitrariedade",
+      "Motivação",
+      "Censura prévia",
+      "Pessoalidade",
+      "Irrecorribilidade absoluta"
+    ],
+    "resposta": 1,
+    "comentario": "A motivação está entre os princípios expressamente previstos na Lei 9.784/1999.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 22,
+    "disciplina": "Administração Pública",
+    "assunto": "Ética no serviço público",
+    "enunciado": "Um servidor que trata usuários com respeito e urbanidade demonstra:",
+    "alternativas": [
+      "Conduta ética no atendimento",
+      "Privilégio indevido",
+      "Desvio de finalidade",
+      "Publicidade irregular",
+      "Uso abusivo de poder"
+    ],
+    "resposta": 0,
+    "comentario": "Respeito, urbanidade e atenção ao cidadão são compatíveis com os deveres éticos no serviço público.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 23,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Poderes administrativos",
+    "enunciado": "O poder de aplicar sanções funcionais a servidores por infrações disciplinares é o poder:",
+    "alternativas": [
+      "Regulamentar",
+      "Disciplinar",
+      "De polícia judiciária",
+      "Constituinte",
+      "Legislativo"
+    ],
+    "resposta": 1,
+    "comentario": "O poder disciplinar permite apurar e sancionar infrações funcionais, observadas as garantias legais.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 24,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Licitações",
+    "enunciado": "Na Lei 14.133/2021, a inexigibilidade ocorre quando:",
+    "alternativas": [
+      "A competição é inviável",
+      "O gestor prefere contratar diretamente",
+      "O preço é sempre inferior a um salário mínimo",
+      "A contratação é sempre emergencial",
+      "Há pelo menos cinco concorrentes"
+    ],
+    "resposta": 0,
+    "comentario": "A inviabilidade de competição é o fundamento da inexigibilidade de licitação.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 25,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Processo organizacional",
+    "enunciado": "Qual função administrativa estabelece objetivos e define meios para alcançá-los?",
+    "alternativas": [
+      "Controle",
+      "Direção",
+      "Planejamento",
+      "Execução financeira",
+      "Auditoria externa"
+    ],
+    "resposta": 2,
+    "comentario": "Planejar significa estabelecer objetivos e escolher os meios para atingi-los.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 26,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Gestão de pessoas",
+    "enunciado": "Uma liderança que escuta a equipe e promove participação nas decisões aproxima-se do estilo:",
+    "alternativas": [
+      "Autocrático",
+      "Democrático",
+      "Coercitivo absoluto",
+      "Ausente",
+      "Burocrático rígido"
+    ],
+    "resposta": 1,
+    "comentario": "A liderança democrática valoriza a participação dos integrantes da equipe.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 27,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Gestão de estoques",
+    "enunciado": "O estoque de segurança tem como objetivo principal:",
+    "alternativas": [
+      "Eliminar registros de entrada",
+      "Cobrir incertezas de demanda ou reposição",
+      "Aumentar perdas por vencimento",
+      "Substituir inventários",
+      "Impedir novas compras"
+    ],
+    "resposta": 1,
+    "comentario": "O estoque de segurança reduz o risco de falta de materiais diante de variações inesperadas.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 28,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Arquivologia",
+    "enunciado": "Documentos de uso frequente nas atividades de um órgão normalmente pertencem ao arquivo:",
+    "alternativas": [
+      "Permanente",
+      "Intermediário",
+      "Corrente",
+      "Histórico exclusivamente",
+      "Eliminado"
+    ],
+    "resposta": 2,
+    "comentario": "O arquivo corrente reúne documentos em tramitação ou frequentemente consultados.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 29,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Protocolo",
+    "enunciado": "No contexto da gestão documental, o protocolo está associado principalmente a:",
+    "alternativas": [
+      "Recebimento, registro e tramitação de documentos",
+      "Descarte indiscriminado",
+      "Compra de computadores",
+      "Concessão de férias",
+      "Planejamento orçamentário"
+    ],
+    "resposta": 0,
+    "comentario": "O protocolo controla o recebimento, o registro e a movimentação de documentos.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 30,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Estrutura organizacional",
+    "enunciado": "A departamentalização funcional agrupa atividades principalmente segundo:",
+    "alternativas": [
+      "Localização aleatória",
+      "Especialidades ou funções semelhantes",
+      "Idade dos servidores",
+      "Ordem alfabética dos processos",
+      "Preferências pessoais do gestor"
+    ],
+    "resposta": 1,
+    "comentario": "Na estrutura funcional, atividades semelhantes são agrupadas por especialidade, como pessoal, finanças e compras.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 31,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Controle administrativo",
+    "enunciado": "A possibilidade de a própria Administração rever seus atos está ligada ao princípio da:",
+    "alternativas": [
+      "Autotutela",
+      "Irresponsabilidade",
+      "Pessoalidade",
+      "Imutabilidade",
+      "Soberania judicial"
+    ],
+    "resposta": 0,
+    "comentario": "A autotutela permite à Administração anular atos ilegais e revogar atos válidos conforme os limites jurídicos.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 32,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Qualidade",
+    "enunciado": "O ciclo PDCA é normalmente representado pelas etapas:",
+    "alternativas": [
+      "Planejar, executar, verificar e agir",
+      "Punir, decidir, cobrar e arquivar",
+      "Prever, delegar, comprar e avaliar",
+      "Planejar, dispensar, contratar e auditar",
+      "Produzir, distribuir, calcular e aceitar"
+    ],
+    "resposta": 0,
+    "comentario": "PDCA corresponde a Plan, Do, Check e Act: planejar, executar, verificar e agir.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  },
+  {
+    "id": 33,
+    "disciplina": "Conhecimentos Específicos",
+    "assunto": "Compras públicas",
+    "enunciado": "Na administração de materiais, a conferência no recebimento busca:",
+    "alternativas": [
+      "Ignorar especificações",
+      "Verificar quantidade e conformidade dos itens entregues",
+      "Dispensar registro de entrada",
+      "Eliminar controles patrimoniais",
+      "Aprovar pagamentos sem documentos"
+    ],
+    "resposta": 1,
+    "comentario": "A conferência compara a entrega com as especificações e quantidades previstas.",
+    "origem": "Autoral — treinamento baseado no Anexo II UFBA 2026"
+  }
+]
