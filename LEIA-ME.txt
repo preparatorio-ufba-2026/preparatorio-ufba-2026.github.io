@@ -7,3 +7,5 @@ PREPARATÓRIO UFBA 2026 — PRIMEIRA VERSÃO
 5. Esta versão contém 32 questões AUTORAIS baseadas no Anexo II retificado. Os cadernos de provas anteriores estão em fontes para consulta, mas suas questões ainda não foram transcritas.
 6. Data de prova no contador: 20/12/2026, sujeita a confirmação.
 7. O documento PC/MS recebido é de recursos, não gabarito completo. Os gabaritos IMASUL são preliminares; conferir definitivos antes de importar questões.
+
+ACESSO: A tela de senha usa validação local por hash e sessão. Não protege de verdade os arquivos públicos do GitHub Pages. Para proteção real, use hospedagem com autenticação no servidor.
