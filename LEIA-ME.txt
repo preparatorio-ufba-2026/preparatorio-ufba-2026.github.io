@@ -9,3 +9,12 @@ Questões de banca: 12 adaptadas da ItupevaPrev; outras provas não foram incorp
 PWA: abra o site publicado no Chrome e escolha Instalar aplicativo. Cache atualizado v5.
 
 Segurança: a senha é uma barreira de interface, não proteção de conteúdo hospedado publicamente no GitHub Pages.
+
+ACESSO AUTOMÁTICO (VERSÃO 6)
+- Na primeira entrada, mantenha marcada a opção "Manter conectado neste dispositivo".
+- O site lembrará o acesso no navegador ou PWA deste dispositivo até você clicar em "Sair deste dispositivo" ou limpar os dados do site.
+- Desmarque a opção se estiver em um computador compartilhado: nesse caso, o acesso dura apenas a sessão do navegador.
+- Celular, computador e aplicativo instalado podem ter armazenamentos separados; a primeira entrada em cada um pode exigir senha.
+- O armazenamento é local e não sincroniza entre dispositivos.
+- Esta tela de senha não protege de verdade os arquivos públicos do GitHub Pages; para conteúdo confidencial, use uma solução com autenticação no servidor.
+- Para atualizar a versão PWA, substitua os arquivos do repositório, abra o site online e atualize/reabra o aplicativo.
