@@ -1,17 +1,11 @@
-PREPARATÓRIO UFBA 2026 — PRIMEIRA VERSÃO
+PREPARATÓRIO UFBA 2026 — APOSTILA PROFISSIONAL V5
 
-1. Envie todos os arquivos e a pasta fontes para um repositório GitHub Pages.
-2. Abra a URL do GitHub Pages (abrir index.html diretamente no computador não carrega o banco JSON).
-3. No navegador do celular, use Instalar aplicativo / Adicionar à tela inicial.
-4. Progresso é salvo localmente; faça backup em Plano de estudos.
-5. Esta versão contém 32 questões AUTORAIS baseadas no Anexo II retificado. Os cadernos de provas anteriores estão em fontes para consulta, mas suas questões ainda não foram transcritas.
-6. Data de prova no contador: 20/12/2026, sujeita a confirmação.
-7. O documento PC/MS recebido é de recursos, não gabarito completo. Os gabaritos IMASUL são preliminares; conferir definitivos antes de importar questões.
+Publicação: envie index.html, resumos.json, questoes.json, sw.js, manifest.webmanifest e ícones à raiz do repositório.
 
-ACESSO: A tela de senha usa validação local por hash e sessão. Não protege de verdade os arquivos públicos do GitHub Pages. Para proteção real, use hospedagem com autenticação no servidor.
+35 aulas com aprofundamento, casos aplicados e autoavaliação. Os tópicos seguem o Anexo II retificado (cargo 201). Material didático de apoio; consulte legislação e documentos oficiais vigentes para estudo integral.
 
-NOVO: Aba RESUMOS com revisão por disciplina, busca, marcação de tópicos revisados e impressão. Publique também resumos.json.
+Questões de banca: 12 adaptadas da ItupevaPrev; outras provas não foram incorporadas nesta atualização.
 
-Atualização: 12 questões da prova ItupevaPrev 2025 (Instituto Avalia), com numeração original, enunciados resumidos, gabarito conferido e comentários.
+PWA: abra o site publicado no Chrome e escolha Instalar aplicativo. Cache atualizado v5.
 
-ATUALIZAÇÃO: 35 aulas-resumo expandidas no arquivo resumos.json. Atualize também o sw.js para renovar o cache do PWA.
+Segurança: a senha é uma barreira de interface, não proteção de conteúdo hospedado publicamente no GitHub Pages.

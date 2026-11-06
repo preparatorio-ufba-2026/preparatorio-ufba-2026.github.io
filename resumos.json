@@ -16,9 +16,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Exemplo: “O setor ampliou o atendimento, mas ainda há filas”. O conectivo mas indica contraste, não causa. Questões costumam pedir ideia principal, pressupostos, ironia, referência de pronomes e intenção comunicativa."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Leitura em três camadas: literal (o que está escrito), inferencial (o que decorre das pistas) e crítica (efeito e propósito). Tema não é tese: o primeiro é o assunto; a segunda é a posição do autor. Distinguir argumento, contra-argumento e conclusão evita alternativas que trocam opinião por fato."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Em “Embora o prazo tenha aumentado, a fila diminuiu”, a oração concessiva introduz expectativa contrariada; não se pode concluir que aumentar prazo sempre reduz filas."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: a inferência pode contradizer uma afirmação explícita? Resposta: não; ela deve ser compatível com o texto."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Língua Portuguesa",
@@ -37,9 +51,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Hífen: anti-inflamatório (mesma vogal), micro-ondas; autoescola (vogais diferentes); antissocial (duplicação do s). Atenção a por que (pergunta/razão), porque (explicação), por quê (fim de frase) e porquê (substantivo)."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Ortografia exige atenção a prefixos, hífen, acentuação e homônimos. Oxítonas, paroxítonas e proparoxítonas obedecem a padrões distintos. Na formação de palavras, diferencie derivação prefixal, sufixal, parassintética e composição."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "“Saúde” recebe acento por hiato; “saída” também. “Antissocial” não usa hífen e duplica s; “micro-ondas” mantém hífen."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: toda proparoxítona é acentuada? Resposta: sim, segundo a regra geral."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Língua Portuguesa",
@@ -58,9 +86,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Exemplo: “O pedido estava incompleto; portanto, foi devolvido” expressa consequência. Trocar portanto por entretanto altera a relação semântica. Observe também a quem se refere “seu” em frases ambíguas."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Coesão é a ligação linguística entre partes; coerência é a consistência de sentido. Anáfora retoma termo anterior; catáfora antecipa informação. Conectivos de causa, consequência, oposição, concessão e conclusão não são intercambiáveis."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "“O setor recebeu os pedidos. Eles foram classificados”: “eles” retoma “pedidos”. Trocar “portanto” por “entretanto” altera a relação lógica."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: um texto pode ter conectivos e ser incoerente? Resposta: sim; coesão não garante coerência."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Língua Portuguesa",
@@ -79,9 +121,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Coordenação reúne orações sintaticamente independentes (aditiva, adversativa, alternativa, conclusiva, explicativa). Subordinação cria dependência (substantivas, adjetivas restritivas/explicativas e adverbiais). Voz ativa: “A equipe analisou o processo”; passiva: “O processo foi analisado pela equipe”."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Analise primeiro os verbos e delimite as orações. Coordenação liga orações sintaticamente independentes; subordinação estabelece dependência. Diferencie oração subordinada substantiva, adjetiva e adverbial; identifique sujeito, predicado, complementos e adjuntos."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "“É necessário que todos compareçam”: a oração introduzida por “que” exerce função de sujeito. “O relatório que chegou ontem” contém oração adjetiva restritiva."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: oração com “que” é sempre adjetiva? Resposta: não; a função sintática determina a classificação."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Língua Portuguesa",
@@ -100,9 +156,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Regência trata das preposições exigidas: assistir ao filme (ver), obedecer às normas, preferir X a Y. Crase ocorre na fusão de a + a(s): “Encaminhou o pedido à chefia”; não ocorre antes de verbo: “a analisar”. Colocação pronominal: palavras negativas atraem próclise (“Não se admite”); após verbo inicial pode haver ênclise (“Encaminhou-se”)."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Concordância verbal depende do núcleo do sujeito; nominal, da relação entre nomes e determinantes. Regência define preposições exigidas. Crase resulta da fusão da preposição a com artigo a ou demonstrativo compatível; pontuação separa estruturas, mas não sujeito de verbo."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "“Encaminhou o documento à diretora”: verbo pede a e “diretora” admite a. “Encaminhou o documento a João”: em regra, não há artigo feminino."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: há crase antes de verbo no infinitivo? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Língua Portuguesa",
@@ -121,9 +191,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Reescrita deve preservar informação, referência, tempo verbal e relação lógica. Voz passiva analítica usa ser + particípio; alterações de ordem podem mudar ênfase ou gerar ambiguidade. Variação linguística: escolha registro formal na redação oficial, sem tratar variantes informais como ausência de linguagem."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Denotação é uso literal; conotação, figurado. Sinonímia depende do contexto; parônimos têm grafia e sentidos diferentes. Reescrita correta preserva conteúdo, relações lógicas, referência pronominal, tempo e voz verbal."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "“O servidor elaborou o relatório” pode virar “O relatório foi elaborado pelo servidor”, mantendo agente e fato. Substituir “apesar de” por “porque” muda o sentido."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: sinônimos de dicionário são sempre substituíveis? Resposta: não; contexto e registro importam."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Língua Portuguesa",
@@ -142,9 +226,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Treine transformar mensagem informal em despacho objetivo: “Manda os papéis logo” → “Solicita-se o encaminhamento dos documentos até a data indicada”. Evite jargões, excesso de adjetivos, redundâncias e fórmulas de cortesia desnecessárias."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Redação oficial requer impessoalidade, clareza, concisão, formalidade e padronização. O Manual de Redação da Presidência da República (3ª ed.) orienta expediente, vocativos, identificação do signatário, assunto e fecho; leia modelos oficiais, não fórmulas decoradas de materiais antigos."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Um ofício deve permitir identificar destinatário, assunto e providência solicitada sem ambiguidade. “Venho por meio desta” costuma ser dispensável quando não acrescenta informação."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: linguagem formal autoriza frases excessivamente rebuscadas? Resposta: não; clareza e concisão prevalecem."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Noções de Informática",
@@ -163,9 +261,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Atalhos úteis: Ctrl+C copiar, Ctrl+X recortar, Ctrl+V colar, Ctrl+Z desfazer, Win+E abrir Explorador, Alt+Tab alternar janelas. Backup não é a mesma coisa que mover arquivos para a Lixeira."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Sistema operacional gerencia processos, memória, arquivos, dispositivos e permissões. Diferencie arquivo, pasta, extensão, atalho, cópia e movimentação. Caminho absoluto identifica localização desde a raiz; lixeira não substitui backup."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Ao mover arquivo entre pastas da mesma unidade, normalmente muda sua localização; copiar mantém o original. Excluir permanentemente pode impedir recuperação simples."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: um atalho contém necessariamente o arquivo original? Resposta: não; aponta para ele."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Noções de Informática",
@@ -184,9 +296,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "PowerPoint: layouts, temas, mestre de slides, transições e animações. Microsoft 365 integra salvamento em nuvem, compartilhamento e coautoria. Distinga fórmula de função e saiba o efeito de copiar fórmulas com referências absolutas."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "No Word, estilos estruturam títulos e sumários; quebras de página diferem de linhas em branco. No Excel, referências relativas (A1), absolutas ($A$1) e mistas ($A1) mudam ao copiar fórmulas. No PowerPoint, mestre de slides centraliza identidade visual."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Em B2, =A2*$F$1 usa A2 variável por linha e F1 fixo. Funções SOMA, MÉDIA, SE e CONT.SE aparecem frequentemente em exercícios práticos."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: $A$1 muda ao arrastar fórmula? Resposta: não, é referência absoluta."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Noções de Informática",
@@ -205,9 +331,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Antes de enviar documento institucional, confira destinatários, dados pessoais, anexo e classificação da informação. Phishing pode simular remetente legítimo; não confie apenas no nome exibido."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "E-mail possui remetente, destinatário, CC, CCO, assunto, corpo e anexos. CC expõe destinatários; CCO os oculta dos demais. Phishing pode simular domínio institucional. Ferramentas colaborativas usam permissões de visualizar, comentar e editar."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Para compartilhar documento sensível, dê permissão mínima necessária e confira domínio e destinatário antes de enviar. “Responder a todos” pode divulgar informação desnecessariamente."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: CCO significa criptografia do conteúdo? Resposta: não; apenas oculta endereços dos demais destinatários."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Noções de Informática",
@@ -226,9 +366,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Nuvem oferece armazenamento e processamento remoto; sincronização replica alterações, enquanto backup preserva versões recuperáveis. Compartilhar por link pode expor dados se a permissão estiver aberta a qualquer pessoa."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Internet é rede pública global; intranet é rede privada institucional. URL identifica recurso; DNS traduz nomes para endereços IP; HTTPS usa conexão criptografada, mas não garante honestidade do site. Nuvem oferece sincronização e colaboração, com controle de acesso."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Ao receber link com domínio parecido com o da universidade, confira endereço completo e certificado; cadeado não prova que a página seja legítima."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: HTTPS impede golpes de phishing? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Noções de Informática",
@@ -247,9 +401,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Problema de rede pode ser local (Wi-Fi), de roteamento ou do serviço remoto. Em questão de prova, distinga equipamento, protocolo e serviço."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "LAN cobre rede local; WAN interliga redes distantes. Roteador encaminha pacotes entre redes; switch conecta dispositivos de uma rede; ponto de acesso fornece Wi-Fi. Endereço IP identifica interface na rede; DNS resolve nomes."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Uma impressora de rede pode estar conectada ao switch; acesso externo passa por roteador. Falha de DNS pode impedir abrir sites pelo nome mesmo com conexão IP funcional."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: Wi-Fi e internet são sinônimos? Resposta: não; Wi-Fi é tecnologia de acesso local."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Noções de Informática",
@@ -268,9 +436,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Boas práticas: senhas únicas e fortes, autenticação multifator, atualização de sistemas, antivírus, firewall, menor privilégio, bloqueio de tela e backups testados. Estratégia 3-2-1: três cópias, em dois tipos de mídia, uma fora do ambiente principal."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Tríade de segurança: confidencialidade, integridade e disponibilidade. Autenticação confirma identidade; autorização define permissões. Malware inclui vírus, worms e ransomware. Backup exige cópias recuperáveis, preferencialmente isoladas, e testes de restauração."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Um e-mail pede “revalidar a conta” com urgência: verifique remetente, não abra anexo suspeito, acesse serviço por endereço conhecido e reporte ao suporte."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: antivírus elimina necessidade de backup? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -289,9 +471,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Atenção: publicidade não autoriza divulgar dados pessoais sem base legal; eficiência não dispensa legalidade. Leia os incisos do art. 37 e o capítulo constitucional da Administração Pública."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Art. 37 da Constituição: legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE). Legalidade administrativa é atuação conforme competência e autorização jurídica; publicidade convive com proteção de dados e sigilos legais. Concurso é regra de investidura, ressalvadas exceções constitucionais."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Servidor não pode favorecer conhecido na fila de atendimento: viola impessoalidade. Publicar dados pessoais sem base legal não se justifica automaticamente pela publicidade."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: eficiência permite descumprir a lei para acelerar serviço? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -310,9 +506,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Agentes públicos abrangem agentes políticos, servidores estatutários, empregados públicos e particulares em colaboração. Cargo público costuma vincular-se a regime estatutário; emprego público, ao regime celetista. Investidura, provimento, deveres e responsabilidades exigem distinção."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Descentralização transfere execução a outra pessoa jurídica; desconcentração distribui competências dentro da mesma pessoa. Administração indireta abrange autarquias, fundações públicas, empresas públicas e sociedades de economia mista, com regimes diferentes. Cargo, emprego e função não são equivalentes."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Uma universidade federal constituída como autarquia integra a administração indireta. A criação de setores internos na mesma entidade é desconcentração, não descentralização."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: toda entidade da administração indireta possui personalidade jurídica própria? Resposta: sim."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -331,9 +541,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Revise direitos, vantagens, férias, licenças, afastamentos, deveres, proibições, responsabilidades e penalidades (advertência, suspensão, demissão, cassação de aposentadoria/disponibilidade, destituição). No PAD, memorize fases e garantias de contraditório e ampla defesa; confira texto atualizado."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Lei 8.112: provimento, posse e exercício são etapas distintas. Estude vacância, remoção, redistribuição, substituição, direitos, vantagens, licenças, afastamentos, deveres, proibições e processo disciplinar. Não confunda exoneração (não é necessariamente punição) com demissão (penalidade)."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "A remoção desloca servidor no âmbito do mesmo quadro; redistribuição desloca cargo efetivo para outro órgão ou entidade, observados requisitos legais."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: exoneração e demissão são sinônimos? Resposta: não; demissão tem natureza sancionatória."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -352,9 +576,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Diferencie responsabilidade civil, penal, administrativa e por improbidade. Sanções variam conforme tipo legal e condições do caso; não memorize resumos antigos que ignoram as alterações de 2021."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Ética exige finalidade pública, probidade e respeito ao cidadão. Improbidade (Lei 8.429, com alterações) distingue enriquecimento ilícito, prejuízo ao erário e atentado a princípios; verifique exigências subjetivas e tipificação legal. Responsabilidades civil, administrativa e penal têm fundamentos distintos."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Receber vantagem para acelerar processo administrativo pode envolver ilícitos éticos, disciplinares e penais. A mera irregularidade formal não deve ser automaticamente classificada como improbidade."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: toda falha administrativa configura improbidade? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -373,9 +611,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Anulação retira ato ilegal; revogação retira ato válido por conveniência e oportunidade. Recurso administrativo, em regra, tem prazo de dez dias da ciência/divulgação, salvo regra específica. Prazo decadencial para anular atos favoráveis é, em regra, cinco anos, ressalvada má-fé."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Lei 9.784 rege processo administrativo federal: legalidade, motivação, razoabilidade, proporcionalidade, ampla defesa, contraditório e segurança jurídica. Diferencie anulação por ilegalidade e revogação por conveniência e oportunidade, respeitados limites. Recursos e prazos devem ser lidos no texto legal."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Se ato contém vício insanável, a Administração deve avaliar sua anulação; se ato válido deixou de ser oportuno, pode haver revogação quando cabível."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: o Judiciário pode revogar ato válido apenas por conveniência? Resposta: em regra, não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -394,9 +646,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Informações pessoais têm proteção específica; LAI e LGPD devem ser conciliadas. Dados de interesse público podem exigir publicidade, mas divulgação indiscriminada de dados sensíveis não é regra."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "LAI: transparência ativa é divulgação espontânea; passiva é resposta a pedido. Informação pública é regra, sigilo é exceção legalmente fundamentada. Diferencie informação classificada, dado pessoal e informação pública. Estude pedidos, recursos e dever de motivação."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Pedido de dados agregados sobre atendimento pode ser atendido sem expor nomes de usuários. Negativa deve observar fundamentos legais e vias de recurso."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: todo dado mantido por órgão público pode ser divulgado integralmente? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -415,9 +681,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Exemplo: cadastro de estudante deve coletar só dados necessários à finalidade e restringir acesso. Incidentes demandam medidas de segurança e, quando aplicável, comunicação conforme normas da ANPD. LGPD não revoga a LAI."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "LGPD: dado pessoal identifica ou torna identificável pessoa; sensível envolve categorias específicas da lei. Tratamento inclui coleta, uso, compartilhamento, armazenamento e eliminação. Princípios: finalidade, adequação, necessidade, transparência, segurança, prevenção, entre outros. No setor público, bases legais e finalidade pública precisam ser observadas."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Para organizar atendimento, coletar CPF pode ser necessário em alguns fluxos, mas divulgar planilha com CPFs em grupo aberto tende a violar necessidade e segurança."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: consentimento é a única base legal para tratamento de dados? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -436,9 +716,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Gestão e fiscalização acompanham execução contratual, alterações, pagamentos e sanções. Valores-limite de dispensa podem ser atualizados por decreto: consulte sempre os valores vigentes e não os memorize de materiais desatualizados."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Lei 14.133: planejamento e fase preparatória precedem a seleção. Modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo. Critérios de julgamento não são modalidades. Dispensa ocorre quando a competição seria possível, mas a lei autoriza contratação direta; inexigibilidade decorre da inviabilidade de competição."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Aquisição de bem comum pode demandar pregão conforme requisitos. Contratação direta precisa processo instruído e fundamento legal; não equivale a ausência de controle."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: “menor preço” é modalidade licitatória? Resposta: não; é critério de julgamento."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -457,9 +751,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Decreto 9.830/2019 regulamenta dispositivos da LINDB sobre decisões administrativas: consideração de consequências práticas, motivação e segurança jurídica. Evite tratar resultado desejado como justificativa para ignorar a lei."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Governança orienta, monitora e avalia atuação institucional; gestão executa atividades e entrega resultados. Risco combina probabilidade e impacto; controles internos reduzem exposição, mas não garantem risco zero. Integridade trata prevenção e resposta a desvios; accountability envolve prestação de contas e responsabilização."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "No processo de compras, segregação de funções evita que a mesma pessoa solicite, aprove, receba e ateste tudo sem controles independentes."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: governança e gestão são exatamente a mesma função? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -478,9 +786,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Carta de Serviços ao Usuário apresenta serviços, requisitos, etapas, prazos e canais. Atendimento deve ser acessível, respeitoso, inclusivo e eficiente, com registro de demandas e orientação clara."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Governo digital simplifica serviços e privilegia acessibilidade, interoperabilidade e segurança. A3P orienta sustentabilidade administrativa: uso racional de recursos, resíduos, qualidade de vida e contratações sustentáveis. Atendimento ao usuário requer informação clara, respeito e canais de manifestação."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Digitalizar formulário sem eliminar exigências desnecessárias não é, por si só, simplificação efetiva. Serviço online deve prever acessibilidade e alternativas para exclusão digital."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: transformação digital significa apenas trocar papel por PDF? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -499,9 +821,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Almoxarifado controla entradas, saídas, estoque e armazenamento; inventário confere existência e situação de bens; patrimônio exige tombamento e controle. Proteção de dados e de documentos físicos/digitais integra a rotina administrativa."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Gestão documental abrange produção, classificação, tramitação, avaliação, destinação e preservação. Protocolo registra recebimento e movimentação. Inventário patrimonial verifica existência, localização e estado de bens. Segurança exige controle de acesso e rastreabilidade."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Documento com prazo de guarda vencido não deve ser descartado sem tabela de temporalidade e procedimento aprovado. Bem não localizado exige apuração, não baixa automática."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: digitalizar documento autoriza destruir o original automaticamente? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Administração Pública",
@@ -520,9 +856,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Roteiro: localizar organograma e órgãos superiores, identificar competências, composição, forma de deliberação e relações entre unidades; montar quadro comparativo e revisar os dispositivos oficiais em https://www.ufba.br/arquivos/estatuto-e-regimento-geral."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "IFES possuem autonomia nos termos constitucionais e normas próprias. Diferencie órgãos colegiados, executivos, unidades universitárias e administração central. Para atribuições específicas de conselhos, reitoria e congregações, consulte o Estatuto e Regimento Geral da UFBA vigentes."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Uma decisão acadêmica pode caber a órgão colegiado, enquanto execução administrativa cabe à unidade competente; não presuma competências sem ler o dispositivo institucional."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: a autonomia universitária afasta toda legislação federal? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -541,9 +891,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Cargo, emprego e função pública não são sinônimos; competência e finalidade limitam a atuação do agente. Compare conceitos por exemplos concretos de universidade federal, ministério e autarquia."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Estado é organização política soberana; governo conduz orientação política; Administração Pública realiza funções administrativas. Em sentido subjetivo, Administração indica órgãos e entidades; em sentido objetivo, atividade administrativa. Princípios expressos e implícitos condicionam a atuação."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "A troca de governo não extingue automaticamente deveres administrativos permanentes; serviços públicos devem manter continuidade conforme regime jurídico."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: Estado e governo são conceitos idênticos? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -562,9 +926,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Abuso de poder: excesso de poder (agente extrapola competência) e desvio de finalidade (usa competência para fim indevido). A discricionariedade não afasta controle de legalidade."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Poder hierárquico organiza, coordena e revisa atividades internas; disciplinar apura infrações funcionais; regulamentar edita atos normativos dentro de competência; polícia limita direitos em prol do interesse coletivo conforme lei. Abuso pode ocorrer por excesso de poder ou desvio de finalidade."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Autoridade que usa competência para perseguir desafeto pode praticar desvio de finalidade; ato fora da competência legal pode representar excesso de poder."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: poder de polícia é exclusivo da polícia judiciária? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -583,9 +961,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Controle administrativo é exercido pela própria Administração; judicial verifica legalidade e tutela direitos; legislativo envolve fiscalização política e financeira, inclusive com tribunais de contas. Responsabilidade civil do Estado, em regra, é objetiva pelos danos causados por seus agentes nessa qualidade, com direito de regresso quando cabível."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Serviço público deve observar continuidade, adequação, generalidade, eficiência e modicidade quando aplicáveis. Delegação por concessão ou permissão segue regime legal e fiscalização estatal; autorização possui regime próprio conforme atividade. Controle administrativo, legislativo e judicial têm competências distintas."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Concessionária executa serviço sob fiscalização do poder concedente; delegação da execução não significa transferência da titularidade estatal em todos os casos."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: delegar serviço significa abrir mão de fiscalizá-lo? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -604,9 +996,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Contratação direta exige processo formal e justificativas; dispensa é hipótese legal, inexigibilidade decorre de inviabilidade de competição. Revogação envolve conveniência/oportunidade; anulação, ilegalidade. Revise impugnação, recursos, fiscalização e sanções."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Fases licitatórias: preparatória, divulgação do edital, apresentação de propostas e lances quando couber, julgamento, habilitação, recursal e homologação; a lei admite inversão em hipóteses específicas. Estude pesquisa de preços, termo de referência, edital, contratos, fiscalização e sanções."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Compra de computadores deve começar com definição da necessidade e especificação não direcionadora. Revogação por interesse público não se confunde com anulação por ilegalidade."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: dispensa e inexigibilidade têm o mesmo fundamento? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -625,9 +1031,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Indicadores devem ter definição, fonte, periodicidade e meta. Eficiência compara recursos e resultados; eficácia verifica cumprimento de metas; efetividade observa impacto real na sociedade."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Estruturas funcional, divisional, matricial e por processos distribuem autoridade de modo distinto. Departamentalização pode ser por função, produto, cliente, região ou processo. Processo administrativo clássico envolve planejamento, organização, direção e controle; indicadores medem execução e resultados."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Em estrutura matricial, colaborador pode responder a gestor funcional e de projeto; isso aumenta integração e exige gestão de conflitos de autoridade."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: planejamento e controle são atividades equivalentes? Resposta: não; o primeiro define rumos e o segundo compara execução a metas."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -646,9 +1066,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Projeto é esforço temporário para produzir resultado único; operação é atividade contínua. Gerencie escopo, prazo, custo, qualidade, riscos, partes interessadas e comunicação. Mudança de escopo deve ser avaliada antes de executada."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Gestão por processos identifica entradas, atividades, saídas, clientes e responsáveis; fluxograma e SIPOC apoiam mapeamento. PDCA (planejar, executar, verificar, agir) orienta melhoria contínua. Projeto é esforço temporário com entrega singular; processo é recorrente."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Implantar sistema de protocolo é projeto; registrar documentos diariamente é processo. Um indicador de prazo médio ajuda a detectar gargalos, mas precisa ser interpretado com qualidade do serviço."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: todo trabalho repetitivo é projeto? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -667,9 +1101,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Comunicação organizacional formal e informal; clima organizacional é percepção compartilhada; cultura reúne valores e práticas. Feedback específico, respeito e gestão de conflitos favorecem cooperação."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Gestão de pessoas integra recrutamento, desenvolvimento, avaliação, clima e gestão de competências, observando regime público. Motivação pode ser analisada por necessidades, fatores higiênicos/motivacionais e expectativas; liderança envolve influência e contexto, não apenas cargo."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Equipe com tarefas claras e feedback pode ter melhor desempenho que equipe sob ordens contraditórias. Remuneração não explica isoladamente motivação e comprometimento."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: liderança depende necessariamente de autoridade formal? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -688,9 +1136,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Compras: especificação, requisição, seleção/cadastro de fornecedores, contratação, recebimento provisório/definitivo quando aplicável, conferência quantitativa e qualitativa. Armazenagem exige identificação, localização, segurança e critérios como PEPS/FIFO para itens pertinentes."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Materiais podem ser classificados por criticidade, consumo, perecibilidade e valor. Curva ABC concentra controle nos itens de maior impacto econômico; estoque de segurança reduz risco de falta; ponto de pedido depende do consumo e do prazo de reposição. Recebimento exige conferência quantitativa e qualitativa."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Consumo médio de 10 unidades/dia e reposição em 5 dias: demanda durante reposição = 50 unidades; com estoque de segurança de 20, ponto de pedido = 70 unidades."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: curva ABC ordena itens apenas por quantidade física? Resposta: não; normalmente considera valor de consumo."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -709,9 +1171,23 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Protocolo registra e controla tramitação. Classificação, descrição e acesso facilitam recuperação; conservação previne danos, restauração intervém em documentos degradados. Microfilmagem e digitalização não significam automaticamente autorização para eliminar originais; observe normas específicas."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Teoria das três idades: arquivo corrente (uso frequente), intermediário (uso eventual aguardando destinação) e permanente (valor histórico/probatório duradouro). Avaliação documental aplica tabela de temporalidade; classificação respeita funções e atividades. Preservação digital exige autenticidade e acesso continuado."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Processo encerrado pode ir ao intermediário, mas não necessariamente ao permanente. Eliminação depende de critérios e autorização, não de falta de espaço."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: documento antigo é automaticamente permanente? Resposta: não."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   },
   {
     "disciplina": "Conhecimentos Específicos",
@@ -730,8 +1206,22 @@
       {
         "titulo": "Aplicação e pontos de prova",
         "texto": "Trabalho em equipe depende de cooperação, confiança, divisão de tarefas, respeito à diversidade e feedback. Atendimento presencial e digital devem proteger informações pessoais e assegurar tratamento isonômico."
+      },
+      {
+        "titulo": "Aprofundamento — distinções essenciais",
+        "texto": "Atendimento público combina escuta ativa, linguagem acessível, respeito, impessoalidade, empatia e resolutividade. Comunicação possui emissor, mensagem, canal, receptor, feedback e ruídos. Equipe eficaz requer colaboração, responsabilidade e tratamento profissional de conflitos."
+      },
+      {
+        "titulo": "Caso aplicado ao trabalho administrativo",
+        "texto": "Diante de usuário irritado, explique etapas e prazos sem prometer resultado fora de sua competência; registre demanda e ofereça canal adequado."
+      },
+      {
+        "titulo": "Autoavaliação comentada",
+        "texto": "Pergunta: empatia significa concordar com qualquer pedido? Resposta: não; significa compreender a perspectiva mantendo regras e limites."
       }
     ],
-    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo."
+    "fonte": "Anexo II retificado, UFBA 007/2026 (tópico programático); explicações didáticas elaboradas para estudo.",
+    "nivel": "Aula aprofundada",
+    "leitura": "Estude o texto legal e os materiais oficiais quando o tema envolver legislação."
   }
 ]
