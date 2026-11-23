@@ -540,7 +540,7 @@
       "Compartilhar arquivos somente por e-mail."
     ],
     "resposta": 1,
-    "comentario": "Canais privados permitem delimitar os participantes e controlar o acesso ao conteúdo compartilhado.",
+    "comentario": "Gabarito: B. Canais privados do Microsoft Teams limitam a participação aos integrantes autorizados, protegendo conversas e arquivos do canal. Canais públicos ampliam o acesso (A); permitir externos sem autorização (C) não restringe o conteúdo; desativar criptografia (D) reduz a segurança; e usar apenas e-mail (E) não oferece a organização e as permissões próprias dos canais.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 27, prova tipo 01 (gabarito enviado)",
     "numero_original": 27,
     "prova": "ItupevaPrev 2025"
@@ -558,7 +558,7 @@
       "Só pode ser aberto por usuários autenticados."
     ],
     "resposta": 1,
-    "comentario": "URL absoluta identifica o recurso de modo completo, incluindo esquema (https), domínio e caminho.",
+    "comentario": "Gabarito: B. Um endereço absoluto informa a localização completa do recurso, normalmente com esquema (https://), domínio e, quando aplicável, caminho. Links para uma seção da mesma página (A) e endereços sem domínio (C) não descrevem necessariamente uma URL absoluta. Prazo de expiração (D) e autenticação (E) não definem esse tipo de link.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 28, prova tipo 01 (gabarito enviado)",
     "numero_original": 28,
     "prova": "ItupevaPrev 2025"
@@ -576,7 +576,7 @@
       "Controlar as operações de leitura e escrita do SSD."
     ],
     "resposta": 0,
-    "comentario": "A fonte converte e distribui energia elétrica adequada aos componentes internos.",
+    "comentario": "Gabarito: A. A fonte de alimentação converte a energia elétrica da rede (corrente alternada) nas tensões de corrente contínua utilizadas pelos componentes internos. Resfriamento (B) cabe ao sistema térmico; armazenamento temporário (C), à memória RAM; conexão de rede (D), ao adaptador de rede; e operações do SSD (E), ao seu controlador.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 29, prova tipo 01 (gabarito enviado)",
     "numero_original": 29,
     "prova": "ItupevaPrev 2025"
@@ -594,7 +594,7 @@
       "Quebra de planilha."
     ],
     "resposta": 4,
-    "comentario": "Quebra de planilha não é um recurso de estruturação de documentos do Word.",
+    "comentario": "Gabarito: E. O Word oferece recursos de quebra de página, seção e linha, além da separação de parágrafos pelo comando Enter. “Quebra de planilha” não é um tipo de quebra de documento do Word: planilhas são estruturadas em células e abas, em programas como o Excel. Por isso, a alternativa E é a única incompatível.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 30, prova tipo 01 (gabarito enviado)",
     "numero_original": 30,
     "prova": "ItupevaPrev 2025"
@@ -612,7 +612,7 @@
       "Incentivar bancos públicos detalhados sobre todos os cidadãos."
     ],
     "resposta": 3,
-    "comentario": "O art. 1º da Lei 13.709/2018 estabelece essa finalidade protetiva.",
+    "comentario": "Gabarito: D. O art. 1º da Lei nº 13.709/2018 estabelece a proteção dos direitos fundamentais de liberdade e privacidade e do livre desenvolvimento da personalidade da pessoa natural. A LGPD não pretende liberar indiscriminadamente o comércio ou a circulação de dados (A e C), nem se restringe a dados biométricos (B); tampouco exige a criação de bancos públicos detalhados sobre cidadãos (E).",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 34, prova tipo 01 (gabarito enviado)",
     "numero_original": 34,
     "prova": "ItupevaPrev 2025"
@@ -630,7 +630,7 @@
       "Princípios comutativos."
     ],
     "resposta": 1,
-    "comentario": "São princípios implícitos, como razoabilidade e proporcionalidade, que complementam os expressamente previstos.",
+    "comentario": "Gabarito: B. Os princípios implícitos são reconhecidos pelo sistema jurídico mesmo quando não aparecem nominalmente no caput do art. 37 da Constituição, como a razoabilidade e a proporcionalidade. Os princípios expressos, por sua vez, incluem legalidade, impessoalidade, moralidade, publicidade e eficiência. As demais expressões não correspondem à classificação solicitada.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 37, prova tipo 01 (gabarito enviado)",
     "numero_original": 37,
     "prova": "ItupevaPrev 2025"
@@ -648,7 +648,7 @@
       "Planejamento permanente."
     ],
     "resposta": 0,
-    "comentario": "O princípio do planejamento coordenado busca harmonizar aspectos e atividades interdependentes.",
+    "comentario": "Gabarito indicado: A. O planejamento coordenado busca compatibilizar atividades e aspectos interdependentes, evitando decisões isoladas e contraditórias. O participativo enfatiza a contribuição dos envolvidos (B); o permanente, a continuidade do planejamento (E). Atenção: a alternativa D (“integrado”) também se aproxima semanticamente da ideia de interdependência; a distinção depende da terminologia teórica adotada na questão original.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 38, prova tipo 01 (gabarito enviado)",
     "numero_original": 38,
     "prova": "ItupevaPrev 2025"
@@ -666,7 +666,7 @@
       "Inferiores."
     ],
     "resposta": 1,
-    "comentario": "Processos transversais atravessam fronteiras organizacionais e dependem de coordenação entre áreas.",
+    "comentario": "Gabarito: B. Processos transversais atravessam fronteiras entre setores, unidades ou órgãos e exigem articulação entre diferentes responsáveis. “Vertical” costuma remeter a uma linha hierárquica (A), enquanto “horizontal” (D) pode descrever fluxos entre áreas no mesmo nível, mas não é a denominação específica pedida pelo enunciado. “Superior” e “inferior” (C e E) não são classificações adequadas.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 42, prova tipo 01 (gabarito enviado)",
     "numero_original": 42,
     "prova": "ItupevaPrev 2025"
@@ -684,7 +684,7 @@
       "Inteligência motora."
     ],
     "resposta": 0,
-    "comentario": "A inteligência intrapessoal refere-se à compreensão dos próprios estados internos e ao autoconhecimento.",
+    "comentario": "Gabarito indicado: A. Inteligência intrapessoal é a capacidade de reconhecer e compreender os próprios sentimentos, motivações e características, favorecendo a autorregulação. A inteligência interpessoal (D) se relaciona à compreensão de outras pessoas. Atenção: a alternativa B (“inteligência emocional”) também abrange autoconsciência, autocontrole e automotivação; portanto, há proximidade conceitual entre A e B, e a escolha depende da classificação adotada pela banca.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 43, prova tipo 01 (gabarito enviado)",
     "numero_original": 43,
     "prova": "ItupevaPrev 2025"
@@ -702,7 +702,7 @@
       "Situação."
     ],
     "resposta": 4,
-    "comentario": "A situação é o contexto ou circunstância da comunicação; canal é o meio de transmissão.",
+    "comentario": "Gabarito indicado: E. “Situação” designa as circunstâncias ou o contexto em que ocorre a comunicação. “Canal” (C) é o veículo de transmissão da mensagem, como e-mail, telefone ou fala; “meio” (B) pode ter sentido semelhante. O enunciado usa a expressão “circunstância em que a mensagem é transmitida”, favorecendo “situação”. Se a pergunta fosse especificamente sobre o veículo de transmissão, a resposta seria “canal”.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 44, prova tipo 01 (gabarito enviado)",
     "numero_original": 44,
     "prova": "ItupevaPrev 2025"
@@ -720,7 +720,7 @@
       "Coesão."
     ],
     "resposta": 3,
-    "comentario": "Precisão é a expressão exata das ideias, evitando ambiguidades e termos inadequados.",
+    "comentario": "Gabarito: D. Precisão, na redação oficial, exige palavras adequadas e sentido inequívoco, evitando ambiguidades. Objetividade (A) é ir diretamente ao assunto; concisão (B), eliminar excessos; padronização (C), seguir convenções formais; e coesão (E), estabelecer conexões entre as partes do texto. A descrição do enunciado corresponde especificamente à precisão.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 45, prova tipo 01 (gabarito enviado)",
     "numero_original": 45,
     "prova": "ItupevaPrev 2025"
@@ -738,7 +738,7 @@
       "Motivação."
     ],
     "resposta": 2,
-    "comentario": "Na Administração Pública, a legalidade condiciona a atuação administrativa à lei e ao Direito.",
+    "comentario": "Gabarito: C. Pelo princípio da legalidade, a Administração Pública e seus agentes devem atuar conforme a lei e o ordenamento jurídico, diferentemente do particular, a quem em regra é permitido fazer o que a lei não proíbe. Razoabilidade (A) trata da adequação das decisões; supremacia do interesse público (B), da prevalência do interesse coletivo nos limites jurídicos; eficiência (D), da qualidade dos resultados; e motivação (E), da exposição dos fundamentos dos atos.",
     "origem": "Instituto Avalia — ItupevaPrev/SP 2025 — Técnico Previdenciário / Assistente Administrativo — questão 48, prova tipo 01 (gabarito enviado)",
     "numero_original": 48,
     "prova": "ItupevaPrev 2025"
